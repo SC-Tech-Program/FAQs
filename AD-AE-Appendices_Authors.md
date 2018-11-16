@@ -24,6 +24,10 @@ A2. No. You are not asked to make any changes to your computing environment in o
 The AD appendix is meant to _describe_ the computing environment in which you produced your results.
 Any author-created software _does_ need to be open source, however, to be eligible for the ACM Artifacts Available badge (see below).
 
+**Q3. How should I format my AD Appendix**
+
+Q3. You don't need to worry about formatting the Appendices. Your will be presented an online form during the paper submission with questions that you will answer directly on the submission site. After answering the questions, the system will automatically generate a PDF of the Appendix for you.
+
 ## <a name="review"></a>Review Process 
 
 **Q. Who will review my appendices?**
