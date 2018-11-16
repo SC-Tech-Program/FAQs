@@ -1,0 +1,42 @@
+title: SC19 Tech Program FAQs
+author: SC19 Tech Program
+# email: noone@nowhere.com
+description: > # this means to ignore newlines until "twitter_username:"
+    Frequently asked questions about submissions for the SC19 technical program.
+
+# social links
+twitter_username: Supercomputing
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+# instagram_username:
+# linkedin_username:
+# pinterest_username:
+# youtube_username:
+# youtube_channel:
+# youtube_channel_name:
+# telegram_username:
+
+# Mastodon instances
+# mastodon:
+# - username:
+#   instance:
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - none.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

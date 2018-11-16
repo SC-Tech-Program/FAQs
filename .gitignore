@@ -1,0 +1,17 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# These could be deleted later if more customization is wanted
+404.html
+Gemfile.lock
+LICENSE.txt
+_includes/
+_layouts/
+_sass/
+assets/
+favicon_package_v0/
+minima.gemspec
+script/
+

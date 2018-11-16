@@ -1,5 +1,8 @@
-Technical Papers Author FAQ
-===========================
+---
+layout: page
+title: Technical Papers Author FAQ
+permalink: /tech-papers-author/
+---
 
 If you still have questions, you can email papers@info.supercomputing.org
 
