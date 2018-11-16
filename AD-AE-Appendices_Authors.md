@@ -18,9 +18,11 @@ Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 A1. An AD appendix is _required_ for all Technical Program submissions.
 An AE appendix is _optional_ but strongly encouraged.
 
-**Q. Do I need to make my software open source in order to complete the AD appendix?**
+**Q2. Do I need to make my software open source in order to complete the AD appendix?**
 
-A. No. You are not required to make any changes to your computing environment in order to complete the appendix. The AD appendix is meant to provide information about the computing environment you used to produce your results, thereby reducing barriers for future replication of your results. However, in order to be eligible for the ACM Artifacts Available badge (see below), your software must be downloadable by anyone without restriction.
+A2. No. You are not asked to make any changes to your computing environment in order to complete the appendix. 
+The AD appendix is meant to _describe_ the computing environment in which you produced your results.
+Any author-created software _does_ need to be open source, however, to be eligible for the ACM Artifacts Available badge (see below).
 
 ## <a name="review"></a>Review Process 
 
