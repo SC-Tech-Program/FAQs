@@ -13,9 +13,10 @@ Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 
 ## <a name="requirements"></a>AD and AE Appendix Requirements 
 
-**Q. Are the artifact description and artifact evaluation appendices required in order to submit to SC18?**
+**Q. Are AD and AE appendices required in order to submit to SC19?**
 
-A. No. These appendices are **not** required. If you do not submit any appendix, it will not disqualify your submission. However, if two submissions are otherwise comparable in quality, the existence and quality of appendices may be a factor in ranking one over the other.
+A. An AD appendix is _required_ for all Technical Program submissions.
+An AE appendix is _optional_ but strongly encouraged.
 
 **Q. Is the artifact description appendix required in order to be considered for Best Paper or Best Student Paper at SC18?**
 
