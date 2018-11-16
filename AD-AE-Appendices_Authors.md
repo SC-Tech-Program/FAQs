@@ -1,6 +1,7 @@
 # AD/AE Appendices Author FAQ
 
-Find answers to common questions that may arise during the effort to prepare and submit an AD or AE appendix to the SC Conference. If your question is not addressed here, please contact us: maherou@sandia.gov.
+Artifact Description (AD) Appendices are required for all papers submitted to the Technical Program at SC19.
+Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 
 [AD and AE Appendix Requirements](#requirements)
 
