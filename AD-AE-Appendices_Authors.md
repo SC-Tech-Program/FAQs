@@ -18,10 +18,6 @@ Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 A1. An AD appendix is _required_ for all Technical Program submissions.
 An AE appendix is _optional_ but strongly encouraged.
 
-**Q. Is the artifact evaluation (formerly CRA) appendix required in order to be considered for the Best Paper or Best Student Paper at SC18?
-
-A. No. The AE appendix is completely optional.
-
 **Q. Do I need to make my software open source in order to complete the AD appendix?**
 
 A. No. You are not required to make any changes to your computing environment in order to complete the appendix. The AD appendix is meant to provide information about the computing environment you used to produce your results, thereby reducing barriers for future replication of your results. However, in order to be eligible for the ACM Artifacts Available badge (see below), your software must be downloadable by anyone without restriction.
