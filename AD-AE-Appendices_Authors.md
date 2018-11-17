@@ -46,9 +46,9 @@ Reviewers _could_ discover the author's identity if they embark on an online sea
 
 ## <a name="impact"></a>Impact of AD and AE Appendices 
 
-**Q. Does the artifact description appendix really impact scientific reproducibility?**
+**Q7. What's the impact of an Artifact Description appendix on scientific reproducibility?**
 
-A. The AD appendix is simply a description of the computing environment used to produce the results presented. By itself, this appendix does not directly improve scientific reproducibility. However, if this artifact is done well, it can be used by scientists (including the authors at a later date) to more easily replicate and build upon these results. Therefore, the AD appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
+A7. Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AD appendix is an instrument of documentation and transparency. A good AD appendix helps researchers document their results, and helps other researchers build from them.
 
 **Q. Does the artifact evaluation appendix really impact scientific reproducibility?**
 
