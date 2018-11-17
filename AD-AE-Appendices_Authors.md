@@ -58,14 +58,16 @@ Access to these systems is typically limited, however. Thus, most reviewers cann
 The various forms of Artiface Evaluation improve confidence that computational results from these special platforms are correct.
 
 ## <a name="badges"></a>ACM Artifacts Available and Artifacts Evaluated Badges 
+ 
+By the [ACM Badging definitions:](https://www.acm.org/publications/policies/artifact-review-badging)
 
-**Q. The Artifacts Available badge description on the ACM website states: “Personal web pages are not acceptable for this purpose.” I do not have free access to any repositories aside from my personal website. Does SC provide a permanent repository?**
+**ACM Artifacts Available badge:** _This badge is applied to papers in which associated artifacts have been made permanently available for retrieval._
 
-A. No. There are numerous source hosting platforms that provide free or inexpensive hosting. You should use one of these.
+The AD/AE Appendix form (new for SC19) will automatically determine eligibility for an ACM Artifacts Available badge on the basis of the answers to questions about the availability of author-created software, hardware or data products. The conditions of eligibility are:
+* All author-created software artifacts are maintained in a public repository under an OSI- approved license.
+* All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.
+* All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.
 
-**Q. Do I get any recognition for submitting an AD and/or AE appendix?**
-
-A. **ACM Artifacts Available badge:** An accepted paper with a fully completed artifact description appendix is eligible for the ACM Artifacts Available badge if the artifacts listed in the appendix are downloadable by anyone without restriction.
 
 **ACM Artifacts Evaluated -- Functional badge:** An accepted paper with fully completed artifact description and artifact evaluation appendices is further eligible for the ACM Artifacts Evaluated -- Functional badge if its artifacts are downloadable and positively evaluated by reviewers.
 
