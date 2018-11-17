@@ -39,9 +39,10 @@ Q4. A printout of the questions included in the AD/AE Appendix online form is pr
 A5. The AD & AE Appendices will be reviewed _with your paper_ by the Technical Program committee, but the artifact URLs will be removed from the version they review, as a precaution in support of double-blind review.
 In addition, the **AD/AE Appendices Committee** will review the unredacted appendices, and will check that artifacts are indeed available in the URLs provided. They will also help authors improve their appendices, in a double-open arrangement.
 
-**Q. Will the information in these appendices reveal an author’s identity, thus interfering with the double-blind review process?**
+**Q6. How will review of appendices interact with the double-blind review process?**
 
-A. It is possible that information provided in an appendix could reveal some information about an author’s identity, but this is most likely no more revealing than self-citations in the bibliography. Listing the software you used does not necessarily mean you developed the software. As with self-references in your text, you should refer to software from a third-person perspective. If you think any particular piece of information requested in an appendix could unambiguously identify you, you may state: “Information will be provided if and when the paper is accepted.” Finally, if you have any unaddressed concerns about completing appendices for SC18, please contact us: maherou@sandia.gov.
+A6. The AD appendix should describe the data, software and hardware artifacts involved in producing the results.
+Reviewers _could_ discover the author's identity if they embark on an online search, but they will be asked _not to_, in support of double-blind review. Author-provided artifact URLs will be redacted from the appendices provided to the reviewers.
 
 ## <a name="impact"></a>Impact of AD and AE Appendices 
 
