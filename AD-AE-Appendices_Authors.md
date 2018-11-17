@@ -67,10 +67,3 @@ The AD/AE Appendix form (new for SC19) will automatically determine eligibility 
 * All author-created software artifacts are maintained in a public repository under an OSI- approved license.
 * All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.
 * All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.
-
-
-**ACM Artifacts Evaluated -- Functional badge:** An accepted paper with fully completed artifact description and artifact evaluation appendices is further eligible for the ACM Artifacts Evaluated -- Functional badge if its artifacts are downloadable and positively evaluated by reviewers.
-
-**ACM Replicated Computational Results badge:** An accepted paper that contains an AD appendix will be considered for inclusion in the SC Student Cluster Competition (SCC), where student teams will attempt to replicate the results presented in the paper. Papers will be selected based on their suitability for use in the SCC. Papers selected for the SCC will receive the ACM Results Replicated badge.
-
-Please see the [ACM Artifact Review and Badging page](https://www.acm.org/publications/policies/artifact-review-badging) for details.
