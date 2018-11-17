@@ -1,6 +1,6 @@
 # AD/AE Appendices Author FAQ
 
-Artifact Description (AD) Appendices are required for all papers submitted to the Technical Program at SC19.
+> Artifact Description (AD) Appendices are required for all papers submitted to the Technical Program at SC19.
 Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 
 [AD and AE Appendix Requirements](#requirements)
@@ -61,7 +61,7 @@ The various forms of Artiface Evaluation improve confidence that computational r
  
 By the [ACM Badging definitions:](https://www.acm.org/publications/policies/artifact-review-badging)
 
-**ACM Artifacts Available badge:** _This badge is applied to papers in which associated artifacts have been made permanently available for retrieval._
+> **ACM Artifacts Available badge:** _This badge is applied to papers in which associated artifacts have been made permanently available for retrieval._
 
 The AD/AE Appendix form (new for SC19) will automatically determine eligibility for an ACM Artifacts Available badge on the basis of the answers to questions about the availability of author-created software, hardware or data products. The conditions of eligibility are:
 * All author-created software artifacts are maintained in a public repository under an OSI- approved license.
