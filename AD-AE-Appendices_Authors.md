@@ -50,13 +50,12 @@ Reviewers _could_ discover the author's identity if they embark on an online sea
 
 A7. Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AD appendix is an instrument of documentation and transparency. A good AD appendix helps researchers document their results, and helps other researchers build from them.
 
-**Q. Does the artifact evaluation appendix really impact scientific reproducibility?**
+**Q8. What's the impact of an Artifact Evaluation appendix on scientific reproducibility?**
 
-A. A thorough artifact evaluation effort is an effective way to increase the trustworthiness of computational results from “boutique” platforms. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the supercomputing community. At the same time, these platforms are often volatile and possess a higher risk of unanticipated behavior.
-
-Furthermore, access to these systems is typically limited, making it nearly impossible for most reviewers to independently compute author results. Finally, the volatility of these platforms often makes it hard for the authors themselves to recompute their own results in the future, since changes in the environment (compilers, libraries, components, etc.) impact computational results, and there is no way to revert to previous system states.
-
-For all of these reasons, the introduction of upstream setup testing, peri-execution time testing and post-execution analysis can improve confidence that computational results from these special platforms are correct.
+A8. An artifact-evaluation effort can increase the trustworthiness of computational results.
+It can be particularly effective in the case of results obtained using specialized computing platforms, not available to other researchers. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the supercomputing community.
+Access to these systems is typically limited, however. Thus, most reviewers cannot independently check results, and the authors themselves may be unable to recompute their own results in the future, given the impact of irreversible changes in the environment (compilers, libraries, components, etc.).
+The various forms of Artiface Evaluation improve confidence that computational results from these special platforms are correct.
 
 ## <a name="badges"></a>ACM Artifacts Available and Artifacts Evaluated Badges 
 
