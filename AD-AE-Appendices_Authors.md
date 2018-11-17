@@ -34,9 +34,10 @@ Q4. A printout of the questions included in the AD/AE Appendix online form is pr
 
 ## <a name="review"></a>Review Process 
 
-**Q. Who will review my appendices?**
+**Q5. Who will review my appendices?**
 
-A. The AD and/or AE appendices will be submitted at the same time as your paper and will be reviewed as part of the standard review process by the same individuals who review the rest of your paper.
+A5. The AD & AE Appendices will be reviewed _with your paper_ by the Technical Program committee, but the artifact URLs will be removed from the version they review, as a precaution in support of double-blind review.
+In addition, the **AD/AE Appendices Committee** will review the unredacted appendices, and will check that artifacts are indeed available in the URLs provided. They will also help authors improve their appendices, in a double-open arrangement.
 
 **Q. Will the information in these appendices reveal an author’s identity, thus interfering with the double-blind review process?**
 
