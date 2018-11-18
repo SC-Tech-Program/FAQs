@@ -67,3 +67,5 @@ The AD/AE Appendix form (new for SC19) will automatically determine eligibility 
 * All author-created software artifacts are maintained in a public repository under an OSI- approved license.
 * All author-created hardware artifacts are available and comply with the Open Source Hardware Definition.
 * All author-created data artifacts are maintained in a public repository with a stable identifier, such as a DOI.
+
+> **Artifacts Evaluated badge:** _This badge is applied to papers whose associated artifacts have successfully completed an independent audit._
