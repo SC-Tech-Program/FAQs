@@ -1,4 +1,5 @@
 # AD/AE Appendices Author FAQ
+If you still have questions, you can email: ad-ae-appendices@info.supercomputing.org
 
 > Artifact Description (AD) Appendices are required for all papers submitted to the Technical Program at SC19.
 Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
