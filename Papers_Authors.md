@@ -3,6 +3,25 @@ Technical Papers Author FAQ
 
 If you still have questions, you can email papers@info.supercomputing.org
 
+Paper formatting
+----------------
+
+**Q: What are the length restrictions on paper submissions?**
+
+A: Papers are limited to 10 pages, including everything except the References section.  In particular, figures, tables, and any appendices included in the paper count against the 10 pages.
+
+**Q: Do the AD and AE appendices count against the 10 pages?**
+
+A: No.  These are created separately via an HTML form and are not considered part of the paper proper.
+
+**Q: How should papers be formatted?**
+
+A: For consistency across the entire proceedings, papers must be written in [ACM SIG proceedings style](https://www.acm.org/publications/proceedings-template) with line numbering enabled to help with the review process.  In LaTeX, this implies a document class of
+
+```LaTeX
+\documentclass[sigconf,review]{acmart}
+```
+
 Area of Contribution
 --------------------
 
@@ -65,26 +84,6 @@ A: Perhaps, but as the old adage goes, there’s no second chance to make a firs
 
 A: We’ve all received reviews that made us angry, particularly on first reading. The revision period is short and doesn’t allow for the cooling-off period that authors have before they write a response to a journal review. We provide you the opportunity to submit a revision and response to address these issues, but you should still be careful with the wording of your response.  For example, we recommend you don’t say: “If reviewer X had just taken the time to read my paper carefully, they would have realized that our algorithm was rotation invariant.” Instead say, “Unfortunately, Section 4 must not have been as clear as we had hoped because Reviewer X did not understand that our algorithm was rotation invariant and they were therefore skeptical about the general applicability of our approach. The revised version of the second paragraph in Section 4 should clear up this confusion.”  The revise-and-respond process offers more opportunity than what is present in other conferences to convince your reviewers of the merits of your work; use such opportunities wisely.
 
-Paper formatting
-----------------
-
-**Q: What are the length restrictions on paper submissions?**
-
-A: Papers are limited to 10 pages, including *everything* except the References section.  In particular, figures, tables, and any appendices included in the paper do count against the 10 pages.
-
-**Q: Do the AD and AE appendices count against the 10 pages?**
-
-A: No.  These are created separately via an HTML form and are not considered part of the paper proper.
-
-**Q: How should papers be formatted?**
-
-A: For consistency across the entire proceedings, papers must be written in [ACM SIG proceedings style](https://www.acm.org/publications/proceedings-template) with line numbering enabled to help with the review process.  In LaTeX, this implies a document class of
-
-```LaTeX
-\documentclass[sigconf,review]{acmart}
-```
-
-
 Double-blind reviewing
 ----------------------
 
@@ -96,7 +95,7 @@ A: Double-blind reviewing means that not only do authors not know the identities
 
 A: Studies indicate that double-blind reviewing goes a long way in reducing unconscious bias (e.g., based on institution, seniority, nationality, or gender) on the part of the reviewers.  For more information, here are some entry points into the relevant literature:
 
-* “More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings” by McKinley (2015), http://www.cs.utexas.edu/users/mckinley/notes/blind.html 
+* “More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings” by McKinley (2015), http://www.cs.utexas.edu/users/mckinley/notes/blind.html
 * “Reviewer bias in single- versus double-blind peer review” by Tomkins (2017), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5715744/
 
 
