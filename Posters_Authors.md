@@ -14,7 +14,7 @@ FAQ's are organized into the following sections:
 
 A. Each poster is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
 
-**Q. Is there a poster template for research and ACM SCR posters?**
+**Q. Is there a poster template for research and ACM SRC posters?**
 
 A. You should produce a poster that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
 
