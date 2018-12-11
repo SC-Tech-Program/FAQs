@@ -1,4 +1,8 @@
-# Posters FAQ
+---
+layout: page
+title: Posters Author FAQ
+permalink: /posters-author/
+---
 
 Find answers to common questions that may arise during the effort to prepare and submit a poster and scientific visualization and data analytics showcases  to the SC19 Conference. If your question is not addressed here, please contact us at posters@info.supercomputing.org.
 

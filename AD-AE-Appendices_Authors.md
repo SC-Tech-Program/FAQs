@@ -1,4 +1,9 @@
-# AD/AE Appendices Author FAQ
+---
+layout: page
+title: AD/AE Appendices Author FAQ
+permalink: /ad-ae-appendices-author/
+---
+
 If you still have questions, you can email: ad-ae-appendices@info.supercomputing.org
 
 > Artifact Description (AD) Appendices are required for all papers submitted to the Technical Program at SC19.
