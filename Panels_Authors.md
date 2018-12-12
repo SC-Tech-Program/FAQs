@@ -9,38 +9,38 @@ If you still have questions, you can email panels@info.supercomputing.org
 Panel Format
 ----------------
 
-**Q: What is an SC panel?
+**Q: What is an SC panel?**
 
 A: A panel provides a forum that promotes lively, highly interactive discussions on a wide variety of topics among the panelists and audience. The panel format includes a moderator and up to six panelists. A panel is not a set of mini-presentations that do not leave time for discussion with the audience. A panel is non-commercial.
 
-**Q: What is the length of a panel session?
+**Q: What is the length of a panel session?**
 
 A: All panels will take place during scheduled sessions at the conference. Each session is 90 minutes.
 
 Submissions and Notifications
 ----------------
 
-**Q: When will I know if my proposed panel will be included in the conference?
+**Q: When will I know if my proposed panel will be included in the conference?**
 
 A: Accept or reject notifications will be sent to all submitters by late June.
 
  
-**Q: Where can I find the Panels program online?
+**Q: Where can I find the Panels program online?**
 
 A: The program for Panels will be posted here within two weeks of the notifications.
 
  
-**Q: Can I submit more than one panel proposal?
+**Q: Can I submit more than one panel proposal?**
 
 A: You are welcome to submit multiple proposals. A committee of peers selects panels in a peer-review process. Because a limited number of slots are available, any individual may be a member (i.e., contact, moderator, or panelist) of at most two panels.
 
  
-**Q: Do panels need to have a title?
+**Q: Do panels need to have a title?**
 
 A: You should indicate your panel’s title when submitting your proposal, as well as the name and affiliation of each discussant and the moderator. You do not have to include titles for individual presentations. A contact for the panel proposal should also be provided. You must include a brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program.
 
  
-**Q: What material do I need to submit?
+**Q: What material do I need to submit?**
 
 A. Your submission should include:
 
@@ -50,16 +50,16 @@ A. Your submission should include:
 Review Criteria and Conflict of Interest (COI)
 ----------------
 
-**Q: Is my panel peer-reviewed?
+**Q: Is my panel peer-reviewed?**
 
 A: Yes, panel proposals are reviewed by a committee of experts. Each proposal will have at least three reviews.
 
  
-**Q: Is the peer-review process double-blind?
+**Q: Is the peer-review process double-blind?**
 
 A: No, reviewers have access to the names of panel submitters. While the members of the committee reviewing panel proposals are available on the SC website, the names of the individual reviewers of each proposal will not be made available to the submitter.
 
-**Q: What are the main review criteria for panel acceptance?
+**Q: What are the main review criteria for panel acceptance?**
 
 A: The panel committee will focus on these criteria:
 
@@ -70,7 +70,7 @@ A: The panel committee will focus on these criteria:
 * Approach – Effectiveness of prescribed approach in sharing and drawing out insights, including highlighting diverse perspectives (a little friendly controversy is often beneficial for discussion), fostering and garnering audience participation. The submission should show an approximate agenda proposal for the panel session.
 * Clarity – The proposal should be clear, complete, and articulate.
 
-**Q: What are the SC guidelines for Conflicts of Interest (COI)?
+**Q: What are the SC guidelines for Conflicts of Interest (COI)?**
 
 A: A potential conflict of interest occurs when a person is involved in making a decision that (1) could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant, or (2) could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
 
@@ -89,37 +89,37 @@ Note that “service” collaborations, such as writing a DOE, NSF, or DARPA rep
 Registration and Attendance
 ----------------
 
-**Q: I am a panelist or panel moderator at the upcoming SC conference. Do I have to register and pay for the Technical Program?
+**Q: I am a panelist or panel moderator at the upcoming SC conference. Do I have to register and pay for the Technical Program?**
 
 A: All Panels participants must register and pay for the Technical Program. Panel moderators and panelists do not receive free or discounted admission to any conference sessions. By submitting a panel proposal to SC, you are making a commitment to attend the conference and pay the Technical Program registration fee upon acceptance of your submission.
 
  
-**Q: Do I need to secure permission from all participants on a panel discussion (i.e., moderator and panelists) before submitting a proposal?
+**Q: Do I need to secure permission from all participants on a panel discussion (i.e., moderator and panelists) before submitting a proposal?**
 
 A: Yes. You must secure permission from all participants in the panel, as well as their agreement to register and attend the conference upon acceptance, prior to making your submission. If the submission is accepted for presentation, all panelists must register for the Technical Program.
 
  
-**Q: I am participating in a panel at the SC conference. Do I still have to register to attend?
+**Q: I am participating in a panel at the SC conference. Do I still have to register to attend?**
 
 A: All individuals planning to present or attend the conference must register. Panel presenters must have a Technical Program registration.
 
 Infrastructure and Organization
 ----------------
 
-**Q: What infrastructure is provided for SC panels?
+**Q: What infrastructure is provided for SC panels?**
 
 A: Each panel’s infrastructure includes one projector, one screen, one table for the panelists with multiple chairs, one clip-on or one podium microphone for the moderator, and microphones for the panelists. One or multiple aisle microphone will be provided. The moderator should direct attendees to the aisle microphone for questions so that everyone can hear.
 
-**Q: I am a panelist or a moderator. When should I arrive at and leave my designated room?
+**Q: I am a panelist or a moderator. When should I arrive at and leave my designated room?**
 
 A: Please arrive at the room designated for the panel at least 15 minutes before the panel starts. Refer to the conference program to identify the room dedicated to your panel session. We ask the moderator and the panelists to leave the room at the end of the 90-minute session in order to allow time for the next panel organizers to set up.
 
  
-**Q: What support is provided to SC panels?
+**Q: What support is provided to SC panels?**
 
 A: A student volunteer will be present at the panel and will assist organizers in contacting technical personnel in case of problems.
 
  
-**Q: Can a session be audio- or video-recorded?
+**Q: Can a session be audio- or video-recorded?**
 
 A: No audio or video recording is permitted.
