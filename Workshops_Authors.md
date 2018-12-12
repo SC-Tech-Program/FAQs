@@ -39,8 +39,8 @@ Conflict of Interest
 
 A: A potential conflict of interest occurs when a person is involved in making a decision that:
 
-1 Could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant.
-2 Could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
+1. Could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant.
+2. Could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
 
 Authors and Workshops Committee members will be given the opportunity to list any potential COIs during the submissions and review processes, respectively. The Workshops Committee Chair will make every effort to avoid assignments that have a potential COI.
 

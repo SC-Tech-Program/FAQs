@@ -84,7 +84,7 @@ A. Final submission dates are usually two months prior to the conference. Actual
 A. Tutorial presenters are generally expected to use the material submitted, with no changes. Minor extensions may be granted to enable a presenter to include more timely material, or to comply with conditions beyond the presenter’s control (e.g., new decisions adopted by standards bodies). In such cases, the submitted material should be as close to a final version as possible, and clearly indicate where changes are anticipated.
 Changes requested because a presenter had insufficient time to prepare and submit their materials cannot be accommodated.
  
-** Q. What are the expectations of tutorial presentations at the conference?**
+**Q. What are the expectations of tutorial presentations at the conference?**
 
 A. SC Tutorials are some of the most popular sessions at the conference, attracting several thousand participants. Tutorial abstracts must clearly present what lessons can be learned, and tutorial presenters are expected to deliver professional presentations and to treat tutorial attendees with respect. Each tutorial will be evaluated in detail by attendees after the session, and these evaluations will play a crucial role in the evaluation of future-year tutorial submissions.
 
@@ -143,8 +143,8 @@ A: No. Reviewers have access to the names of tutorial submitters. While Tutorial
 
 A: A potential conflict of interest occurs when a person is involved in making a decision that:
 
-1 Could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant.
-2 Could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
+1. Could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant.
+2. Could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
 
 Authors and Tutorials Committee members will be given the opportunity to list any potential COIs during the submissions and review processes, respectively. The Tutorials Committee Chair will make every effort to avoid assignments that have a potential COI.
 

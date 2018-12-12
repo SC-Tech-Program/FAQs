@@ -6,7 +6,7 @@ permalink: /bof-author/
 
 If you still have questions, you can email bofs@info.supercomputing.org
 
-**Q. What is a BoF?***
+**Q. What is a BoF?**
 
 A. BoFs are non-commercial and focus on community building through interactive presentations and discussions covering a wide variety of topics. Successful BoF submissions will often involve any combination of presentations, audience discussion, roadmap discussions, question and answer periods, and community meetups.
  
