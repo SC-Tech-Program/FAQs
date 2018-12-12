@@ -35,7 +35,7 @@ header_pages:
  - none.md
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
  - jekyll-feed
