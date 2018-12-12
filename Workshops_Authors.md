@@ -21,6 +21,11 @@ A: The Workshops submission form gathers information about the history, format, 
 
 A: Yes, please limit workshop organizers to four for simplicity of communication. You are welcome to include more participants on your scientific or steering committees.
 
+**Q: Is my workshop required to participate in the reproducibility initiative?**
+
+A: While participation in the reproducibility initiative is highly encouraged for all Workshops organizers, you can explain why your workshop does not want to partake in this initiative. This step can also be omitted if your workshop will not publish proceedings. Please refer to the Reproducibility Initiative for more information.
+
+
 Review Criteria
 ----------------
 
@@ -147,3 +152,89 @@ A: Please refer to [SC19 Registration](https://sc19.supercomputing.org/attend/re
 **Q: Do I have to register for each workshop that I wish to attend?**
 
 A: No. A Workshops registration is for one or multiple days, during which time you have access to any scheduled workshop.
+
+Reproducibility
+----------------
+
+**Q: Is reproducibility documentation required in order to submit to SC19 Workshops?**
+
+A: Only if your workshop publishes peer-reviewed proceedings. Three components are requested:
+
+1. Information about this initiative explaining how authors can present should be apparent on your Workshop website.
+2. An evaluation of each author’s reproducibility documentation, as part of the review process
+3. Workshop organizers should confirm with their proceedings editors that the reproducibility information can be included in those proceedings.
+
+Workshops without peer-reviewed published proceedings can still include a statement of reproducibility in their submissions for evaluation by the committee.
+
+**Q: Where can I find a template for assembling my reproducibility documentation?**
+
+A: The authors taking part in the reproducibility initiative will submit a form as part of the workshop paper submission process. The AD/AE details will be automatically generated once the authors respond to an online. Please refer to the GitHub that has the author kit and FAQ [https://github.com/SC-Tech-Program](https://github.com/SC-Tech-Program). So as workshop organizers, please ensure to add the form as part of the submission process that the authors will use to submit their papers. 
+
+**Q: What if my workshop editor limits the number of pages for publication and this does not allow for the inclusion of reproducibility in my submission?**
+
+A: Please [contact us](mailto:workshops@info.supercomputing.org) early enough so that we can help you to communicate this to your workshop proceedings editors.
+
+**Q: How do I benefit from including reproducibility in my submission?**
+
+A: In addition to the satisfaction of contributing to progress and excellence in scientific research, you may receive special recognition if the research incorporated in your workshop achieves full reproducibility, or went to great lengths for the sake of reproducibility. Information about your workshop will be shared with the Workshops Chairs of future conference years.
+Finally, your workshop will be featured in advertisements to SC attendees, generating interest and awareness of your work.
+
+**Q: I still have questions about the reproducibility initiative. How can I find help?**
+
+A: [Contact us](mailto:workshops@info.supercomputing.org) with additional questions. Also, two webinars will be offered to answer questions:
+
+Webinar 1
+January 29, 2018, 2–3 PM CET (Central European Time) / 8–9 am EST (Eastern Standard Time)
+Topic: SC19 Workshop Webinar 
+Time: Jan 29, 2019 8:00 AM Eastern Time (US and Canada)
+Join from PC, Mac, Linux, iOS or Android: https://udel.zoom.us/j/316949530
+Or iPhone one-tap :
+    US: +16468769923,,316949530#  or +16699006833,,316949530# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 876 9923  or +1 669 900 6833 
+    Meeting ID: 316 949 530
+    International numbers available: https://zoom.us/u/ad9SNigX1d
+Or an H.323/SIP room system:
+    H.323: 
+        162.255.37.11 (US West)
+        162.255.36.11 (US East)
+        221.122.88.195 (China)
+        115.114.131.7 (India)
+        213.19.144.110 (EMEA)
+        202.177.207.158 (Australia)
+        209.9.211.110 (Hong Kong)
+        64.211.144.160 (Brazil)
+        69.174.57.160 (Canada)
+    Meeting ID: 316 949 530
+    SIP: 316949530@zoomcrc.com
+
+Webinar 2
+February 04 2018, 9-10AM (Central European Time)/3-4AM (Eastern Standard Time)/3-4PM China /4-5PM Japan
+Topic: SC19 Workshop Webinar
+Time: Feb 4, 2019 3:00 AM Eastern Time (US and Canada)
+Join from PC, Mac, Linux, iOS or Android: https://udel.zoom.us/j/542623786
+Or iPhone one-tap :
+    US: +16468769923,,542623786#  or +16699006833,,542623786# 
+Or Telephone:
+    Dial(for higher quality, dial a number based on your current location): 
+        US: +1 646 876 9923  or +1 669 900 6833 
+    Meeting ID: 542 623 786
+    International numbers available: https://zoom.us/u/acIO5aRjJu
+Or an H.323/SIP room system:
+    H.323: 
+        162.255.37.11 (US West)
+        162.255.36.11 (US East)
+        221.122.88.195 (China)
+        115.114.131.7 (India)
+        213.19.144.110 (EMEA)
+        202.177.207.158 (Australia)
+        209.9.211.110 (Hong Kong)
+        64.211.144.160 (Brazil)
+        69.174.57.160 (Canada)
+    Meeting ID: 542 623 786
+    SIP: 542623786@zoomcrc.com
+
+If you are planning to attend one of the webinars, please [contact us](mailto:workshops@info.supercomputing.org) stating which you’ll attend. We encourage attendees using zoom to connect a few minutes early to ensure the appropriate plug-ins are installed.
+
+A summary of the webinar discussions will be made available.
