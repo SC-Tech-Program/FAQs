@@ -25,16 +25,16 @@ A: For consistency across the entire proceedings, papers must be written in [ACM
 \documentclass[sigconf,review]{acmart}
 ```
 
-Area of Contribution
---------------------
+Contribution Track
+------------------
 
-**Q: Is it mandatory for authors to select the primary area of their contribution?**
+**Q: Is it mandatory for authors to select the primary track of their contribution?**
 
-A: Yes. Authors must indicate their primary area of contribution from the ten topic choices on the submissions form. We understand that contributions may straddle more than one area.  In such cases, we encourage authors to indicate a secondary area of contribution.
+A: Yes. Authors must indicate their primary contribution track from the ten track choices on the submissions form. We understand that contributions may straddle more than one track.  In such cases, we encourage authors to indicate a secondary contribution track.
 
-**Q: Who will review my paper?  The program committee corresponding to my primary area of contribution?  My secondary area?  Both?  Neither?**
+**Q: Who will review my paper?  The program committee corresponding to my primary contribution track?  My secondary track?  Both?  Neither?**
 
-A: Papers are assigned to the most suitable program committee for the area of contribution.  The author-indicated primary and secondary topic choices are used as guidelines but do not exclude more suitable program committees.
+A: Papers are assigned to the most suitable program committee for the contribution track.  The author-indicated primary and secondary track choices are used as guidelines but do not exclude more suitable program committees.
 
 Paper Eligibility
 -----------------
@@ -190,7 +190,7 @@ Conflicts of Interest
 
 A: A potential conflict of interest occurs when a person is involved in making a decision that 1) could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant, or 2) could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
 
-The Papers Committee members will be given the opportunity to list potential conflicts of interest during the review process. Papers Committee chairs and area chairs will make every effort to avoid assignments that have a perceived COI.
+The Papers Committee members will be given the opportunity to list potential conflicts of interest during the review process. Papers Committee chairs and track chairs will make every effort to avoid assignments that have a perceived COI.
 
 According to the SC conference you have a conflict of interest with the following:
 
@@ -213,13 +213,13 @@ A: An SOP paper can describe a first-of-its-kind technology or methodology, or c
 
 **Q: I am concerned that if the standards for SOP are the same as for other papers, the SOP papers will be rejected for not being sufficiently academically rigorous. How will reviewers handle this?**
 
-A: Although SOP papers will be reviewed with the same academic rigor as the papers in other areas, the acceptance criteria will be tailored to value new and generalizable insights as gained from experience with particular HPC machines, operations, applications, or benchmarks; overall analysis of the status quo of a particular metric of the entire field; or historical review of the progress of the field.
+A: Although SOP papers will be reviewed with the same academic rigor as the papers in other tracks, the acceptance criteria will be tailored to value new and generalizable insights as gained from experience with particular HPC machines, operations, applications, or benchmarks; overall analysis of the status quo of a particular metric of the entire field; or historical review of the progress of the field.
 
 Such papers are common in other academic disciplines, including branches of computer science. For example, software engineering highly values the “experience papers” of particular frameworks and methodologies; human–computer interaction produces numerous analyses of human behavior given particular interfaces; social sciences collect data on social phenomena and produce meaningful insights based on their statistical analysis.
 
-**Q: I used machine learning to improve *X*.  The call for papers lists machine learning as a topic of interest for *X*, but there’s also a whole Machine Learning and HPC (ML&HPC) track.  Should I list *X* or ML&HPC as the primary contribution area?**
+**Q: I used machine learning to improve *X*.  The call for papers lists machine learning as a topic of interest for *X*, but there’s also a whole Machine Learning and HPC (ML&HPC) track.  Should I list *X* or ML&HPC as the primary contribution track?**
 
-A: Authors should send papers whose focus is on introducing new ML techniques that are not specific to a particular Papers track to the ML&HPC track.  Authors should send papers whose work is specific to a track (Applications, Architecture and Networks, System Software, etc.) to that track.  ML&HPC may be listed as the secondary contribution area if appropriate.
+A: Authors should send papers whose focus is on introducing new ML techniques that are not specific to a particular Papers track to the ML&HPC track.  Authors should send papers whose work is specific to a track (Applications, Architecture and Networks, System Software, etc.) to that track.  ML&HPC may be listed as the secondary contribution track if appropriate.
 
 Awards
 ------
