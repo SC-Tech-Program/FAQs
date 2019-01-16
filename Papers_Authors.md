@@ -11,7 +11,14 @@ Paper formatting
 
 **Q: What are the length restrictions on paper submissions?**
 
-A: Papers are limited to 10 pages, including everything except the References section.  In particular, figures, tables, and any appendices included in the paper count against the 10 pages.
+A: Submissions are limited to 10 pages, excluding the bibliography, using the ACM SIG proceedings template, with line numbering enabled to help with review. In LaTeX, this implies a document class of:
+```LaTeX
+\documentclass[sigconf,review]{acmart}
+```
+AD and AE appendices are automatically generated and do not count against the 10 pages.
+
+Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper.  For example, additional proofs, videos, or images.
+
 
 **Q: Do the AD and AE appendices count against the 10 pages?**
 
@@ -30,11 +37,11 @@ Contribution Track
 
 **Q: Is it mandatory for authors to select the primary track of their contribution?**
 
-A: Yes. Authors must indicate their primary contribution track from the ten track choices on the submissions form. We understand that contributions may straddle more than one track.  In such cases, we encourage authors to indicate a secondary contribution track.
+A: Yes. Authors must indicate a primary track from the ten choices on the submissions form and are strongly encouraged to indicate a secondary track.
 
 **Q: Who will review my paper?  The program committee corresponding to my primary contribution track?  My secondary track?  Both?  Neither?**
 
-A: Papers are assigned to the most suitable program committee for the contribution track.  The author-indicated primary and secondary track choices are used as guidelines but do not exclude more suitable program committees.
+A: Papers are assigned to the most suitable program committee for the contribution track.  The author-indicated primary and secondary track choices are used as guidelines, but do not exclude more suitable program committees.
 
 Paper Eligibility
 -----------------
@@ -45,7 +52,7 @@ A: Yes.  Papers that have not previously been peer-reviewed are eligible for sub
 
 **Q: If my paper was already published in a workshop, can I also submit it to SC?**
 
-A: No, unless a paper has been substantially enhanced since prior publication (say, 30% new material), it is not eligible for submission to SC.
+A: Yes.  However the paper needs to have been substantially enhanced since prior publication (say, 30% new material) to be eligible for submission to SC.
 
 The Peer-Review Process
 -----------------------
@@ -54,22 +61,23 @@ The Peer-Review Process
 
 A: From an author’s perspective, the following are the key steps:
 
-1. Authors submit a title, abstract, and other metadata.  These are used to assign papers to appropriate reviewers and avoid conflicts of interest.
+1. Authors submit a title, abstract, and other metadata.
 2. Authors submit their full paper and complete a form describing their computational artifacts (or lack of computational artifacts) and, optionally, text discussing how they evaluated their computational results.
 3. Authors receive an initial set of reviews of their paper.
 4. Authors have an opportunity to revise their paper and prepare an accompanying response to the reviewers.
 5. Author revisions and accompanying response will be available to the reviewers at least a week before the PC meeting.
 6. Authors are notified of their paper’s disposition: Accept, Reject, or Major Revisions Required.
-7. In the case of Major Revisions Required, authors prepare a major revision for re-review.  After this review, the paper will be either accepted or rejected.
-8. Authors of accepted papers prepare the final version of their paper.
+7. In the case of Major Revisions Required, authors prepare a major revision for re-review.
+8. After this review, the paper will be either accepted or rejected.
+9. Authors of accepted papers prepare the final version of their paper.
 
 **Q: Is there an author response/rebuttal stage?**
 
-A: Once authors receive their initial feedback from the reviewers, they are given the opportunity to improve their paper accordingly before the next round of reviews.  For example, if a reviewer indicates that a paper requires some critical measurement or explanation to be worthy of publication, the authors can supply that missing information.  An accompanying response document highlights the changes the authors made.  This is unlike the rebuttal stage present in many other conferences in that the focus is less on promises to fix problems for the final document and more on actually fixing the problems.
+A: Yes.  Once authors receive their initial feedback from the reviewers, they are given the opportunity to improve their paper accordingly before the next round of reviews.  For example, if a reviewer indicates that a paper requires some critical measurement or explanation to be worthy of publication, the authors can supply that missing information.  An accompanying response document highlights the changes the authors made.  This is unlike the rebuttal stage present in many other conferences in that the focus is less on promises to fix problems for the final document and more on actually fixing the problems.
 
 **Q: If I don’t have time to gather the additional data the reviewers requested by the revise-and-respond deadline but can do so by the final paper deadline, can my response indicate that.**
 
-A: Yes.  The reviewers may want to see a major revision in this case to ensure that no information critical to the paper’s argument is missing.
+A: Yes.  Depending on what other concerns reviewers have with the paper, it may still be rejected.  Another possibility is that reviewers may want to see a major revision in this case to ensure that no information critical to the paper’s argument is missing.
 
 **Q: Now that I’ve read the reviews of my paper, I see much better how to organize it so it will be clear to the reader. Can I do this reorganization and upload the new version during the revise-and-respond period?**
 
@@ -89,6 +97,7 @@ A: We’ve all received reviews that made us angry, particularly on first readin
 
 Double-blind reviewing
 ----------------------
+See the full policy at [ FIXME need the final link ]
 
 **Q: What is double-blind reviewing?**
 
@@ -174,7 +183,7 @@ A: Yes.  Their focus will be on the paper itself, but they can refer to the appe
 
 **Q: Doesn’t an artifact description conflict with double-blind reviewing?**
 
-A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  Additionally, URLs to archived software and data products willif you provide a link to your software, that link will *not* be shared with PC members onlyuntil after the paper has been accepted.
+A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide a link to your software, that link will *not* be shared with PC members until after the paper has been accepted.
 
 Plagiarism
 ----------
@@ -206,6 +215,11 @@ Other situations can create COIs, and you should contact the Technical Papers Ch
 
 Specific technical tracks
 -------------------------
+**Q: What kind of papers is the Performance Measurement, Modeling, and Tools Track looking for?**
+
+"Performance" can be broadly construed to include any number of metrics, such as execution time, bandwidth, energy, power; it can also include measures of correctness and resilience. Techniques that exploit machine learning should have a primary focus on applying their techniques to analyze or enhance system performance.  If their focus is more on the machine learning algorithm itself, then consider submitting to the new ML and HPC track.
+
+Submissions in to the Performance track are encouraged to show the applicability and reproducibility of their results by means such as sensitivity analysis, performance modeling, or code snippets.
 
 **Q: What constitutes a State of the Practice (SOP) paper?**
 
