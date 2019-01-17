@@ -82,7 +82,7 @@ Students are allowed to list one or more official graduate or undergraduate advi
 
 **Q. How are Best Posters selected?**
 
-A. The Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
+A. For Research Posters, the Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
 
 A separate award committee handles Best Student Poster in the context of the ACM Student Research Competition.
 
@@ -97,7 +97,7 @@ Archiving/Publishing
 
 **Q. Is my poster archived? What is the process for archiving my poster?**
 
-A. Yes, all posters are archived and can be accessed after the conference on the SC18 website. Contact us for further details.
+A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
 
 **Q. What is the submission process for Scientific Visualization and what is the review process?**
 
@@ -142,7 +142,7 @@ A. The conference does not provide any support for printing posters. Typically, 
 
 **Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
 
-A. The appendix is not required. However, if two posters are otherwise comparable in quality, the existence and quality of appendices can be a factor in ranking one poster over another. Also, in order for your poster to be considered for the Best Poster or Best Student Poster award, you must submit an artifact description appendix.
+A. The appendix is not required and is an option for Research Posters only.
 
 **Q. Is the artifact description appendix required in order to be considered a finalist in the ACM Student Research Competition?**
 
@@ -150,7 +150,7 @@ A. No. The appendix is not required in order for a poster to be considered a fin
 
 **Q. Do I need to make my software open-source in order to complete the artifact description appendix?**
 
-A. No. It is not required that you make any changes to your computing environment in order to complete the appendix. The artifact description appendix is meant to provide information about the computing environment you used to produce your results, reducing barriers for future replication of your results. However, in order to be eligible for the ACM Artifacts Available badge (see below), your software must be downloadable by anyone without restriction.
+A. No. It is not required that you make any changes to your computing environment in order to complete the appendix. The artifact description appendix is meant to provide information about the computing environment you used to produce your results, reducing barriers for future replication of your results.
 
 **Q. Who will review my appendix?**
 
@@ -160,15 +160,10 @@ A. The artifact description appendix will be submitted at the same time as your 
 
 A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
 
-**Q. The Artifacts Available badge description on the ACM website states: “Personal web pages are not acceptable for this purpose.” Does the SC Conference provide a permanent repository, as I don’t have free access to any repositories beyond my personal website?**
+**Q. Are Research Posters that submit an artifact description appendix eligible for an Artifacts Available badge as described on the ACM website?**
 
-A. No. Poster authors should use one of the numerous source hosting platforms that provide free or inexpensive hosting.
+A. No. Research posters are not eligible for any badges associated with reproduciblity artifacts.
 
 **Q. What kind of recognition do I get for submitting these appendices?**
 
-A. ACM Artifacts Available badge: An accepted poster with a fully completed artifact description appendix is eligible for the ACM Artifacts Available Badge if the artifacts listed in the appendix are accessible (downloadable) by anyone without restriction.
-
-ACM Artifacts Evaluated badge: An accepted poster with fully completed artifact description and artifact evaluation appendices is further eligible for the ACM Artifacts Evaluated badge if its artifacts are downloadable and positively evaluated by reviewers.
-
-ACM Replicated Computational Results badge: Accepted posters that contain one or both of these appendices will be considered for inclusion in the Student Cluster Competition (SCC), where student teams will attempt to replicate the poster’s results. Several posters will be selected, with consent from the authors, as part of the standard review process. Posters will be selected based on their suitability for the SCC. Posters selected for the SCC will receive the ACM Replicated Computational Results badge.
-
+A. There is no additional recognition for research posters that submit an artifact description appendix.
