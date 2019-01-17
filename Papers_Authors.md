@@ -17,7 +17,7 @@ A: Submissions are limited to 10 pages, excluding the bibliography, using the AC
 ```
 AD and AE appendices are automatically generated and do not count against the 10 pages.
 
-Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper.  For example, additional proofs, videos, or images.
+Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper (e.g., additional proofs, videos, or images).
 
 
 **Q: Do the AD and AE appendices count against the 10 pages?**
@@ -41,7 +41,7 @@ A: Yes. Authors must indicate a primary track from the ten choices on the submis
 
 **Q: Who will review my paper?  The program committee corresponding to my primary contribution track?  My secondary track?  Both?  Neither?**
 
-A: Papers are assigned to the most suitable program committee for the contribution track.  The author-indicated primary and secondary track choices are used as guidelines, but do not exclude more suitable program committees.
+A: Papers are assigned to the most suitable program committee for the contribution track.  The author-indicated primary and secondary track choices are used as guidelines but do not exclude more suitable program committees.
 
 Paper Eligibility
 -----------------
@@ -183,7 +183,8 @@ A: Yes.  Their focus will be on the paper itself, but they can refer to the appe
 
 **Q: Doesn’t an artifact description conflict with double-blind reviewing?**
 
-A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide a link to your software, that link will *not* be shared with PC members until after the paper has been accepted.
+A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide links to your software in the AD appendix form question asking for links, those link will *not* be shared with PC members during the review process.
+
 
 Plagiarism
 ----------
