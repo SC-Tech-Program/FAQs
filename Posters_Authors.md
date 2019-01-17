@@ -80,9 +80,9 @@ A. An ACM Student Research Competition submission reflects student research: thi
 
 Students are allowed to list one or more official graduate or undergraduate advisors on their poster. Each advisor must be clearly marked by putting “(advisor)” after the advisor’s name. For example, if Alex Abel is advised by Bruno Banach and Clara Cantor at Durham University in England, then the poster and extended abstract should be authored by: Alex Abel, Bruno Banach (advisor), and Clara Cantor (advisor), Durham University, England.
 
-**Q. How are Best Posters selected?**
+**Q. How is the Best Poster for Research Posters selected?**
 
-A. For Research Posters, the Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
+A. The Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
 
 A separate award committee handles Best Student Poster in the context of the ACM Student Research Competition.
 
