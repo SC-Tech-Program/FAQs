@@ -183,7 +183,7 @@ A: Yes.  Their focus will be on the paper itself, but they can refer to the appe
 
 **Q: Doesn’t an artifact description conflict with double-blind reviewing?**
 
-A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide links to your software in the AD appendix form question asking for links, those link will *not* be shared with PC members during the review process.
+A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide links to your software in the AD appendix form question asking for links, those links will *not* be shared with PC members during the review process.
 
 
 Plagiarism
