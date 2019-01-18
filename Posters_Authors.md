@@ -172,3 +172,6 @@ ACM Artifacts Evaluated badge: An accepted poster with fully completed artifact 
 
 ACM Replicated Computational Results badge: Accepted posters that contain one or both of these appendices will be considered for inclusion in the Student Cluster Competition (SCC), where student teams will attempt to replicate the poster’s results. Several posters will be selected, with consent from the authors, as part of the standard review process. Posters will be selected based on their suitability for the SCC. Posters selected for the SCC will receive the ACM Replicated Computational Results badge.
 
+**Q. Why is the poster for the Doctoral Showcase called "Thesis Canvas" and not simply "Poster"?**
+
+A. Thesis Canvas is meant to present the research during the PhD studies giving a broad and holistic perspective on the PhD thesis research questions, methodolody, results and their critical assesment. Instead, a poster presents a focused, specific research problem. 
