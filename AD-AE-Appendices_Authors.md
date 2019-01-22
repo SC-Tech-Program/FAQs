@@ -32,11 +32,11 @@ Any author-created software _does_ need to be open source, however, to be eligib
 
 **Q3. How should I format my AD Appendix**
 
-Q3. You don't need to worry about formatting the Appendices. You will be presented with an online form during the paper submission with questions that you will answer directly on the submission site. After answering the questions, the system will automatically generate a PDF of the Appendix for you.
+A3. You don't need to worry about formatting the Appendices. You will be presented with an online form during the paper submission with questions that you will answer directly on the submission site. After answering the questions, the system will automatically generate a PDF of the Appendix for you.
 
 **Q4. What information do I need to provide in the AD/AE Appendix online form?**
 
-Q4. A printout of the questions included in the AD/AE Appendix online form is provided in the [`Author-Kit`](https://github.com/SC-Tech-Program/Author-Kit) repository. Be sure to familiarize yourself with these _before writing your paper_, and ideally before or while you are producing your results.
+A4. A printout of the questions included in the AD/AE Appendix online form is provided in the [`Author-Kit`](https://github.com/SC-Tech-Program/Author-Kit) repository. Be sure to familiarize yourself with these _before writing your paper_, and ideally before or while you are producing your results.
 
 ## <a name="review"></a>Review Process 
 
