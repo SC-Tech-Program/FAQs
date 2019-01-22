@@ -12,15 +12,43 @@ FAQ's are organized into the following sections:
  - [Mounting/Displaying at the Conference](#Mounting)
  - [Reproducibility](#Reproducibility)
 
-## <a name='Formatting'></a> Formatting Specifications
+## <a name='ACMSRCposters'></a> ACM Student Research Competition Poster
 
-**Q. What are the poster formatting requirements for research and ACM SRC posters?**
+**Q. Should I be the only author of my ACM Student Research Competition poster?**
 
-A. Each poster is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
+A. An ACM Student Research Competition submission reflects student research: this work may part of a larger project, but the poster should only reflect the contributions of a single graduate student or up to two undergraduate students. For graduate student submissions, the final poster must list one student as the only author; for undergraduate student submissions, the final poster must list up to two undergraduate students as the first (and second) author(s).
 
-**Q. Is there a poster template for research and ACM SRC posters?**
+Students are allowed to list one or more official graduate or undergraduate advisors on their poster. Each advisor must be clearly marked by putting “(advisor)” after the advisor’s name. For example, if Alex Abel is advised by Bruno Banach and Clara Cantor at Durham University in England, then the poster and extended abstract should be authored by: Alex Abel, Bruno Banach (advisor), and Clara Cantor (advisor), Durham University, England.
 
-A. You should produce a poster that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
+**Q. Is the artifact description appendix required in order to be considered a finalist in the ACM Student Research Competition?**
+
+A. No. The appendix is not required in order for a poster to be considered a finalist in the ACM Student Research Competition.
+
+## <a name='Research'></a> Research
+
+**Q. How is the Best Poster for Research Posters selected?**
+
+A. The Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
+
+A separate award committee handles Best Student Poster in the context of the ACM Student Research Competition.
+
+**Q. Are Research Posters that submit an artifact description appendix eligible for an Artifacts Available badge as described on the ACM website?**
+
+A. No. Research posters are not eligible for any badges associated with reproduciblity artifacts.
+
+**Q. Can I submit a poster on HPC education?**
+
+A. Yes. Posters focusing on HPC education are within scope. This is one of the topics listed in the call for posters. There is no separate education track, so education posters will be evaluated as research posters and should be submitted using the same submission form as technical research posters.
+Archiving/Publishing
+
+
+## <a name='Doctoral'></a> Doctoral Showcase
+
+**Q. Why is the poster for the Doctoral Showcase called "Thesis Canvas" and not simply "Poster"?**
+
+A. Thesis Canvas is meant to present the research during the PhD studies giving a broad and holistic perspective on the PhD thesis research questions, methodolody, results and their critical assesment. Instead, a poster presents a focused, specific research problem.
+
+## <a name='ScientificViz'></a> Scientific Visualization & Data Analytics Showcase
 
 **Q. What are the poster formatting requirements fors scientific visualization & data analytics showcase?**
 
@@ -33,8 +61,35 @@ The manuscript must be no more than 6 pages including references. The manuscript
 LaTeX Template (159KB .zip) – preferred
 Microsoft Word Template (51KB .zip)
 
-
 The manuscript should be uploaded as a pdf for the initial submission.
+
+**Q. What is the submission process for Scientific Visualization and what is the review process?**
+
+A. Submissions need to include a movie (up to 1GB in size) and a short paper (up to 6 pages including references). The short paper should describe the scientific story conveyed by the movie, how the visualization helps scientific discovery, and the “state-of-the-practice” information behind making the movie.
+
+Each submission will be peer reviewed by the Visualization & Data Analytics Showcase Committee. Criteria for review include:
+
+How effective is the visual communication of the data?
+How relevant to the HPC community is the visualization?
+What is the impact of the science story and how well is it told?
+What visualization techniques were necessary to create the movie?
+Finally, submissions should consider SC19’s overall theme “HPC is now!”.
+
+Entries are submitted through the SC [Submissions website](https://submissions.supercomputing.org):
+
+Sign in
+Click the “Make a New Submission” tab
+Select “Scientific Visualization & Data Analytics Showcase”
+ 
+
+## <a name='Formatting'></a> Formatting Specifications
+**Q. What are the formatting requirements for research and ACM SRC posters and thesis canvas ?**
+
+A. Each poster/thesis canvas is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
+
+**Q. Is there a poster template for research and ACM SRC posters, and thesis canvas?**
+
+A. You should produce a poster/thesis canvas that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
 
 **Q. Can I embed content in my poster?**
 
@@ -68,54 +123,21 @@ A. For the submission, the poster does not need to be finalized; you may update 
 
 **Q. Are posters peer-reviewed?**
 
-A. Yes, all regular and ACM Student Research Competition posters are peer-reviewed by a committee of experts.
+A. Yes, all regular and ACM Student Research Competition posters and thesis canvas are peer-reviewed by a committee of experts.
 
 **Q. Is my poster blind-reviewed?**
 
 A. Poster reviews are single-blind: reviewers will see author names, but authors will not see reviewer names.
 
-**Q. Should I be the only author of my ACM Student Research Competition poster?**
-
-A. An ACM Student Research Competition submission reflects student research: this work may part of a larger project, but the poster should only reflect the contributions of a single graduate student or up to two undergraduate students. For graduate student submissions, the final poster must list one student as the only author; for undergraduate student submissions, the final poster must list up to two undergraduate students as the first (and second) author(s).
-
-Students are allowed to list one or more official graduate or undergraduate advisors on their poster. Each advisor must be clearly marked by putting “(advisor)” after the advisor’s name. For example, if Alex Abel is advised by Bruno Banach and Clara Cantor at Durham University in England, then the poster and extended abstract should be authored by: Alex Abel, Bruno Banach (advisor), and Clara Cantor (advisor), Durham University, England.
-
-**Q. How is the Best Poster for Research Posters selected?**
-
-A. The Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
-
-A separate award committee handles Best Student Poster in the context of the ACM Student Research Competition.
 
 **Q. Can I change from one type of poster to another?**
 
 A. No. Authors are required to select the type of poster at the time of submission. Authors can select either Regular Poster or ACM Student Research Competition Poster.
 
-**Q. Can I submit a poster on HPC education?**
-
-A. Yes. Posters focusing on HPC education are within scope. This is one of the topics listed in the call for posters. There is no separate education track, so education posters will be evaluated as research posters and should be submitted using the same submission form as technical research posters.
-Archiving/Publishing
 
 **Q. Is my poster archived? What is the process for archiving my poster?**
 
 A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
-
-**Q. What is the submission process for Scientific Visualization and what is the review process?**
-
-A. Submissions need to include a movie (up to 1GB in size) and a short paper (up to 6 pages including references). The short paper should describe the scientific story conveyed by the movie, how the visualization helps scientific discovery, and the “state-of-the-practice” information behind making the movie.
-
-Each submission will be peer reviewed by the Visualization & Data Analytics Showcase Committee. Criteria for review include:
-
-How effective is the visual communication of the data?
-How relevant to the HPC community is the visualization?
-What is the impact of the science story and how well is it told?
-What visualization techniques were necessary to create the movie?
-Finally, submissions should consider SC19’s overall theme “HPC is now!”.
-
-Entries are submitted through the SC [Submissions website](https://submissions.supercomputing.org):
-
-Sign in
-Click the “Make a New Submission” tab
-Select “Scientific Visualization & Data Analytics Showcase”
 
 
 ## <a name='Mounting'></a>Mounting/Displaying at the Conference
@@ -137,16 +159,12 @@ A. Each poster is given a designated space with a display board. Before the conf
 A. The conference does not provide any support for printing posters. Typically, authors print their posters ahead of the conference. The convention center’s business office may offer printing services. You can look for details at the convention center’s website.
 
 
-
 ## <a name='Reproducibility'></a> Reproducibility
 
 **Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
 
 A. The appendix is not required and is an option for Research Posters only.
 
-**Q. Is the artifact description appendix required in order to be considered a finalist in the ACM Student Research Competition?**
-
-A. No. The appendix is not required in order for a poster to be considered a finalist in the ACM Student Research Competition.
 
 **Q. Do I need to make my software open-source in order to complete the artifact description appendix?**
 
@@ -160,14 +178,9 @@ A. The artifact description appendix will be submitted at the same time as your 
 
 A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
 
-**Q. Are Research Posters that submit an artifact description appendix eligible for an Artifacts Available badge as described on the ACM website?**
-
-A. No. Research posters are not eligible for any badges associated with reproduciblity artifacts.
 
 **Q. What kind of recognition do I get for submitting these appendices?**
 
 A. There is no additional recognition for research posters that submit an artifact description appendix.
 
-**Q. Why is the poster for the Doctoral Showcase called "Thesis Canvas" and not simply "Poster"?**
 
-A. Thesis Canvas is meant to present the research during the PhD studies giving a broad and holistic perspective on the PhD thesis research questions, methodolody, results and their critical assesment. Instead, a poster presents a focused, specific research problem. 
