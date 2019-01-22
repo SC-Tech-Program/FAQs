@@ -167,3 +167,7 @@ A. No. Research posters are not eligible for any badges associated with reproduc
 **Q. What kind of recognition do I get for submitting these appendices?**
 
 A. There is no additional recognition for research posters that submit an artifact description appendix.
+
+**Q. Why is the poster for the Doctoral Showcase called "Thesis Canvas" and not simply "Poster"?**
+
+A. Thesis Canvas is meant to present the research during the PhD studies giving a broad and holistic perspective on the PhD thesis research questions, methodolody, results and their critical assesment. Instead, a poster presents a focused, specific research problem. 
