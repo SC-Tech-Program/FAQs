@@ -143,7 +143,7 @@ A. The artifact description appendix will be submitted at the same time as your 
 
 **Q. Does the artifact description appendix really impact scientific reproducibility?**
 
-A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
+[A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
 
 
 **Q. What kind of recognition do I get for submitting these appendices?**
@@ -169,8 +169,8 @@ The video should be in MP4, MOV, or AVI format and use a codec that will play in
 
 The manuscript must be no more than 6 pages including references. The manuscripts should be formatted according to the guidelines for the Parallel Computing journal. Please use one of the following two templates when formatting your manuscript:
 
-LaTeX Template (159KB .zip) – preferred
-Microsoft Word Template (51KB .zip)
+[LaTeX Template](sc18-vis-showcase-latex-template.zip) – preferred
+[Microsoft Word Template](sc18-vis-showcase-template.docx.zip) 
 
 The manuscript should be uploaded as a pdf for the initial submission.
 
