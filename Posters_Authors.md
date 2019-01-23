@@ -80,7 +80,7 @@ A. Pushpins will be provided for affixing all poster materials to display boards
 
 **Q. When should I plan to mount and unmount my poster?**
 
- A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
+A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
 
 **Q. Do posters have allocated space, or is space first-come-first-serve?**
 
