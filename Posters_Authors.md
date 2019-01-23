@@ -11,6 +11,7 @@ FAQ's are organized into the following sections:
  - [ACM Student Research Posters Questions](#ACMSRCposters)
  - [Research Posters Questions](#Research)
  - [Doctoral Showcase Questions](#Doctoral)
+ - [Scientific Visualization & Data Analytics Showcase](#ScientificViz)
 
 ## <a name='GeneralQuestions'></a> General Questions
 ### <a name='Formatting'></a> Formatting Specifications
