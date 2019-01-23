@@ -15,11 +15,11 @@ FAQ's are organized into the following sections:
 
 ## <a name='GeneralQuestions'></a> General Questions
 ### <a name='Formatting'></a> Formatting Specifications
-**Q. What are the formatting requirements for research and ACM SRC posters and thesis canvas ?**
+**Q. What are the formatting requirements for research posters, ACM SRC posters, and Doctoral Showcase thesis canvases?**
 
-A. Each poster/thesis canvas is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
+A. Each poster/thesis canvas is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board. Your poster does not need to cover the entire display board; the poster size should be appropriate for your content.
 
-**Q. Is there a poster template for research and ACM SRC posters, and thesis canvas?**
+**Q. Is there a poster template for research posters, ACM SRC posters, and Doctoral Showcase thesis canvases?**
 
 A. You should produce a poster/thesis canvas that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
 
@@ -41,7 +41,7 @@ A. There are many QR code-generating sites and apps, both paid and free, that yo
 
 **Q. Where do I place the QR codes on my poster?**
 
-A. QR codes should be placed anywhere you want to link to external content on your poster; for example, to point to a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc.
+A. QR codes could be placed anywhere you want to link to external content on your poster; for example, to point to a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc.
 
 **Q. I noticed QR codes next to _every_ poster at the conference. Do I have to generate that QR code for my poster?**
 
@@ -55,7 +55,7 @@ A. For the submission, the poster does not need to be finalized; you may update 
 
 **Q. Are posters peer-reviewed?**
 
-A. Yes, all regular and ACM Student Research Competition posters and thesis canvas are peer-reviewed by a committee of experts.
+A. Yes, all research and ACM Student Research Competition posters and Doctoral Showcase thesis canvases are peer-reviewed by a committee of experts.
 
 **Q. Is my poster blind-reviewed?**
 
@@ -64,7 +64,7 @@ A. Poster reviews are single-blind: reviewers will see author names, but authors
 
 **Q. Can I change from one type of poster to another?**
 
-A. No. Authors are required to select the type of poster at the time of submission. Authors can select either Regular Poster or ACM Student Research Competition Poster.
+A. No. Authors are required to select the type of poster at the time of submission. Authors can select either Research Poster, ACM Student Research Competition Poster, Doctoral Showcase canvas, or Scientific Visualization movie.
 
 
 **Q. Is my poster archived? What is the process for archiving my poster?**
@@ -90,10 +90,12 @@ A. Each poster is given a designated space with a display board. Before the conf
 
 A. The conference does not provide any support for printing posters. Typically, authors print their posters ahead of the conference. The convention center’s business office may offer printing services. You can look for details at the convention center’s website.
 
+**Q. When do I need to be at my poster location to present it?
+
+A. Poster presenters must be available at their posters to answer questions and discuss their work for the duration of the Posters Reception on Tuesday evening. In addition, each poster track has a separate presentation session for selected posters (Research Best Poster Candidates, ACM SRC Best Poster Candidates, Doctoral Showcase, Best Poster Candidates in Scientific Visualization). 
 
 
-
-## <a name='ACMSRCposters'></a> ACM Student Research Competition Poster
+## <a name='ACMSRCposters'></a> ACM Student Research Competition Posters
 
 **Q. Should I be the only author of my ACM Student Research Competition poster?**
 
