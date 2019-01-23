@@ -186,10 +186,6 @@ What is the impact of the science story and how well is it told?
 What visualization techniques were necessary to create the movie?
 Finally, submissions should consider SC19’s overall theme “HPC is now!”.
 
-Entries are submitted through the SC [Submissions website](https://submissions.supercomputing.org):
-
-Sign in
-Click the “Make a New Submission” tab
-Select “Scientific Visualization & Data Analytics Showcase”
+Entries are submitted through the SC [Submissions website](https://submissions.supercomputing.org).
  
 
