@@ -12,6 +12,86 @@ FAQ's are organized into the following sections:
  - [Mounting/Displaying at the Conference](#Mounting)
  - [Reproducibility](#Reproducibility)
 
+## <a name='ACMSRCposters'></a> General Questions
+### <a name='Formatting'></a> Formatting Specifications
+**Q. What are the formatting requirements for research and ACM SRC posters and thesis canvas ?**
+
+A. Each poster/thesis canvas is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
+
+**Q. Is there a poster template for research and ACM SRC posters, and thesis canvas?**
+
+A. You should produce a poster/thesis canvas that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
+
+**Q. Can I embed content in my poster?**
+
+A. Yes, you can embed additional multimedia elements using QR codes.
+
+**Q. What is considered appropriate embedded content?**
+
+A. The goal of embedded multimedia elements should be to enhance the presentation of research in the poster. Such elements may include a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc. Note that extended versions of the poster or related publications will not be considered acceptable multimedia elements in this context.
+
+**Q. What is a QR code?**
+
+A. A QR code (abbreviated from Quick Response Code) is a type of matrix barcode (or two-dimensional barcode) providing a machine-readable optical label that contains information about the item to which it is attached. QR codes have become a popular way to access content. For example, a smartphone or tablet can be used as a QR code scanner, displaying the code and converting it to some useful form (such as a standard URL for a website, thereby obviating the need for a user to type it into a web browser).
+
+**Q. How do I generate a QR code?**
+
+A. There are many QR code-generating sites and apps, both paid and free, that you can use to generate and print your own QR codes.
+
+**Q. Where do I place the QR codes on my poster?**
+
+A. QR codes should be placed anywhere you want to link to external content on your poster; for example, to point to a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc.
+
+**Q. I noticed QR codes next to _every_ poster at the conference. Do I have to generate that QR code for my poster?**
+
+A. No, you do not have to generate those QR codes. We generate one QR code for every poster that points to your submitted content. This code is attached to the poster pedestal by the time you arrive at SC. Conference attendees can scan these QR codes and get all of your material easily.
+
+### <a name='Submissions'></a> Submissions and Review Process
+
+**Q. Should I submit the final version of my poster for review? Can I make changes after the review?**
+
+A. For the submission, the poster does not need to be finalized; you may update the poster after acceptance, but a representative draft of the poster must be submitted for review.
+
+**Q. Are posters peer-reviewed?**
+
+A. Yes, all regular and ACM Student Research Competition posters and thesis canvas are peer-reviewed by a committee of experts.
+
+**Q. Is my poster blind-reviewed?**
+
+A. Poster reviews are single-blind: reviewers will see author names, but authors will not see reviewer names.
+
+
+**Q. Can I change from one type of poster to another?**
+
+A. No. Authors are required to select the type of poster at the time of submission. Authors can select either Regular Poster or ACM Student Research Competition Poster.
+
+
+**Q. Is my poster archived? What is the process for archiving my poster?**
+
+A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
+
+
+### <a name='Mounting'></a>Mounting/Displaying at the Conference
+
+**Q. What are the options for mounting my poster to the display board?**
+
+A. Pushpins will be provided for affixing all poster materials to display boards. Mounting your poster on foam core is not recommended.
+
+**Q. When should I plan to mount and unmount my poster?**
+
+A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
+
+**Q. Do posters have allocated space, or is space first-come-first-serve?**
+
+A. Each poster is given a designated space with a display board. Before the conference, we will send authors a poster directory that maps assigned display boards. The title of each poster will also be printed on its display board in the Posters area to help you locate your space.
+
+**Q. Can I print my poster on-site at the conference?**
+
+A. The conference does not provide any support for printing posters. Typically, authors print their posters ahead of the conference. The convention center’s business office may offer printing services. You can look for details at the convention center’s website.
+
+
+
+
 ## <a name='ACMSRCposters'></a> ACM Student Research Competition Poster
 
 **Q. Should I be the only author of my ACM Student Research Competition poster?**
@@ -81,83 +161,6 @@ Sign in
 Click the “Make a New Submission” tab
 Select “Scientific Visualization & Data Analytics Showcase”
  
-
-## <a name='Formatting'></a> Formatting Specifications
-**Q. What are the formatting requirements for research and ACM SRC posters and thesis canvas ?**
-
-A. Each poster/thesis canvas is assigned one display board that is four feet high and eight feet wide. The only format requirement is that your poster properly mounts on its display board.
-
-**Q. Is there a poster template for research and ACM SRC posters, and thesis canvas?**
-
-A. You should produce a poster/thesis canvas that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
-
-**Q. Can I embed content in my poster?**
-
-A. Yes, you can embed additional multimedia elements using QR codes.
-
-**Q. What is considered appropriate embedded content?**
-
-A. The goal of embedded multimedia elements should be to enhance the presentation of research in the poster. Such elements may include a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc. Note that extended versions of the poster or related publications will not be considered acceptable multimedia elements in this context.
-
-**Q. What is a QR code?**
-
-A. A QR code (abbreviated from Quick Response Code) is a type of matrix barcode (or two-dimensional barcode) providing a machine-readable optical label that contains information about the item to which it is attached. QR codes have become a popular way to access content. For example, a smartphone or tablet can be used as a QR code scanner, displaying the code and converting it to some useful form (such as a standard URL for a website, thereby obviating the need for a user to type it into a web browser).
-
-**Q. How do I generate a QR code?**
-
-A. There are many QR code-generating sites and apps, both paid and free, that you can use to generate and print your own QR codes.
-
-**Q. Where do I place the QR codes on my poster?**
-
-A. QR codes should be placed anywhere you want to link to external content on your poster; for example, to point to a video narration of the poster by the author, links to results, movies, graphics, datasets, codes, etc.
-
-**Q. I noticed QR codes next to _every_ poster at the conference. Do I have to generate that QR code for my poster?**
-
-A. No, you do not have to generate those QR codes. We generate one QR code for every poster that points to your submitted content. This code is attached to the poster pedestal by the time you arrive at SC. Conference attendees can scan these QR codes and get all of your material easily.
-
-## <a name='Submissions'></a> Submissions and Review Process
-
-**Q. Should I submit the final version of my poster for review? Can I make changes after the review?**
-
-A. For the submission, the poster does not need to be finalized; you may update the poster after acceptance, but a representative draft of the poster must be submitted for review.
-
-**Q. Are posters peer-reviewed?**
-
-A. Yes, all regular and ACM Student Research Competition posters and thesis canvas are peer-reviewed by a committee of experts.
-
-**Q. Is my poster blind-reviewed?**
-
-A. Poster reviews are single-blind: reviewers will see author names, but authors will not see reviewer names.
-
-
-**Q. Can I change from one type of poster to another?**
-
-A. No. Authors are required to select the type of poster at the time of submission. Authors can select either Regular Poster or ACM Student Research Competition Poster.
-
-
-**Q. Is my poster archived? What is the process for archiving my poster?**
-
-A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
-
-
-## <a name='Mounting'></a>Mounting/Displaying at the Conference
-
-**Q. What are the options for mounting my poster to the display board?**
-
-A. Pushpins will be provided for affixing all poster materials to display boards. Mounting your poster on foam core is not recommended.
-
-**Q. When should I plan to mount and unmount my poster?**
-
-A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
-
-**Q. Do posters have allocated space, or is space first-come-first-serve?**
-
-A. Each poster is given a designated space with a display board. Before the conference, we will send authors a poster directory that maps assigned display boards. The title of each poster will also be printed on its display board in the Posters area to help you locate your space.
-
-**Q. Can I print my poster on-site at the conference?**
-
-A. The conference does not provide any support for printing posters. Typically, authors print their posters ahead of the conference. The convention center’s business office may offer printing services. You can look for details at the convention center’s website.
-
 
 ## <a name='Reproducibility'></a> Reproducibility
 
