@@ -79,7 +79,7 @@ A. Pushpins will be provided for affixing all poster materials to display boards
 
 **Q. When should I plan to mount and unmount my poster?**
 
-A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
+ A. Posters must be mounted between 2pm and 5pm on Monday, and should remain mounted until 5pm on Thursday. This allows conference attendees to browse posters outside of the Posters sessions.
 
 **Q. Do posters have allocated space, or is space first-come-first-serve?**
 
@@ -104,7 +104,9 @@ Students are allowed to list one or more official graduate or undergraduate advi
 
 A. No. The appendix is not required in order for a poster to be considered a finalist in the ACM Student Research Competition.
 
-## <a name='Research'></a> Research
+## <a name='Research'></a> Research Posters
+
+### <a name='Research'></a> General Questions for Research Posters
 
 **Q. How is the Best Poster for Research Posters selected?**
 
@@ -120,6 +122,32 @@ A. No. Research posters are not eligible for any badges associated with reproduc
 
 A. Yes. Posters focusing on HPC education are within scope. This is one of the topics listed in the call for posters. There is no separate education track, so education posters will be evaluated as research posters and should be submitted using the same submission form as technical research posters.
 Archiving/Publishing
+
+### <a name='Reproducibility'></a> Reproducibility for Research Posters
+
+**Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
+
+A. The appendix is not required and is an option for Research Posters only.
+
+
+**Q. Do I need to make my software open-source in order to complete the artifact description appendix?**
+
+A. No. It is not required that you make any changes to your computing environment in order to complete the appendix. The artifact description appendix is meant to provide information about the computing environment you used to produce your results, reducing barriers for future replication of your results.
+
+**Q. Who will review my appendix?**
+
+A. The artifact description appendix will be submitted at the same time as your poster and will be reviewed as part of the standard review process by the same reviewers who handle the rest of your poster.
+
+**Q. Does the artifact description appendix really impact scientific reproducibility?**
+
+A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
+
+
+**Q. What kind of recognition do I get for submitting these appendices?**
+
+A. There is no additional recognition for research posters that submit an artifact description appendix.
+
+
 
 
 ## <a name='Doctoral'></a> Doctoral Showcase
@@ -161,29 +189,4 @@ Sign in
 Click the “Make a New Submission” tab
 Select “Scientific Visualization & Data Analytics Showcase”
  
-
-## <a name='Reproducibility'></a> Reproducibility
-
-**Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
-
-A. The appendix is not required and is an option for Research Posters only.
-
-
-**Q. Do I need to make my software open-source in order to complete the artifact description appendix?**
-
-A. No. It is not required that you make any changes to your computing environment in order to complete the appendix. The artifact description appendix is meant to provide information about the computing environment you used to produce your results, reducing barriers for future replication of your results.
-
-**Q. Who will review my appendix?**
-
-A. The artifact description appendix will be submitted at the same time as your poster and will be reviewed as part of the standard review process by the same reviewers who handle the rest of your poster.
-
-**Q. Does the artifact description appendix really impact scientific reproducibility?**
-
-A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
-
-
-**Q. What kind of recognition do I get for submitting these appendices?**
-
-A. There is no additional recognition for research posters that submit an artifact description appendix.
-
 
