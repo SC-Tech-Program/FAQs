@@ -7,12 +7,12 @@ permalink: /posters-author/
 Find answers to common questions that may arise during the effort to prepare and submit a poster and scientific visualization and data analytics showcases  to the SC19 Conference. If your question is not addressed here, please contact us at posters@info.supercomputing.org.
 
 FAQ's are organized into the following sections:
- - [Formatting Specifications](#Formatting)
- - [Submissions and Review Process](#Submissions)
- - [Mounting/Displaying at the Conference](#Mounting)
- - [Reproducibility](#Reproducibility)
+ - [General Questions](#GeneralQuestions)
+ - [ACM Student Research Posters Questions](#ACMSRCposters)
+ - [Research Posters Questions](#Research)
+ - [Doctoral Showcase Questions](#Doctoral)
 
-## <a name='ACMSRCposters'></a> General Questions
+## <a name='GeneralQuestions'></a> General Questions
 ### <a name='Formatting'></a> Formatting Specifications
 **Q. What are the formatting requirements for research and ACM SRC posters and thesis canvas ?**
 
