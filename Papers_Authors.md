@@ -95,6 +95,18 @@ A: Perhaps, but as the old adage goes, there’s no second chance to make a firs
 
 A: We’ve all received reviews that made us angry, particularly on first reading. The revision period is short and doesn’t allow for the cooling-off period that authors have before they write a response to a journal review. We provide you the opportunity to submit a revision and response to address these issues, but you should still be careful with the wording of your response.  For example, we recommend you don’t say: “If reviewer X had just taken the time to read my paper carefully, they would have realized that our algorithm was rotation invariant.” Instead say, “Unfortunately, Section 4 must not have been as clear as we had hoped because Reviewer X did not understand that our algorithm was rotation invariant and they were therefore skeptical about the general applicability of our approach. The revised version of the second paragraph in Section 4 should clear up this confusion.”  The revise-and-respond process offers more opportunity than what is present in other conferences to convince your reviewers of the merits of your work; use such opportunities wisely.
 
+**Q: How many reviewers will review my paper?**
+
+A: Each paper will normally receive a minimum of three reviews.  However, the Technical Papers committee reserves the right to "desk reject" (i.e., reject without review) papers that violate any of the paper-submission rules.  The following violations are among the grounds for desk rejects:
+
+* The paper is longer than 10 pages (excluding the bibliography).  (See [Paper formatting](#paper-formatting).)
+
+* The paper is not formatted in ACM SIG proceedings style.  (See [Paper formatting](#paper-formatting).)
+
+* The paper exposes the authors' identities.  (See [Double-blind reviewing](#double-blind-reviewing).)
+
+* The AD appendix claims that the paper has no associated author-created artifacts even though the paper obviously contains empirical results, discusses author-written software, presents author-created hardware, or employs author-generated data.  The "no author-created artifacts" option in the AD form does not mean "I'm too lazy to describe my artifacts."  (See [Artifact Description (AD) and Artifact Evaluation (AE) Appendices](#artifact-description-ad-and-artifact-evaluation-ae-appendices).)
+
 Double-blind reviewing
 ----------------------
 See the full policy at [ FIXME need the final link ]
@@ -175,7 +187,7 @@ A: Starting with SC19, the AD appendix is mandatory for all papers in the Techni
 
 **Q: What if our paper does not have any associated artifacts?**
 
-A: Although we expect this to be a rare occurrence for SC papers, the first question in the required Artifact Description form enables authors to indicate that they do not have any software, hardware, or data artifacts associated with the submitted paper.
+A: Although we expect this to be an exceptionally rare occurrence for SC papers, the first question in the required Artifact Description form enables authors to indicate that they do not have any software, hardware, or data artifacts associated with the submitted paper.
 
 **Q: Will the paper reviewers also be reviewing the AD and AE appendices?**
 
@@ -184,7 +196,6 @@ A: Yes.  Their focus will be on the paper itself, but they can refer to the appe
 **Q: Doesn’t an artifact description conflict with double-blind reviewing?**
 
 A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide links to your software in the AD appendix form question asking for links, those links will *not* be shared with PC members during the review process.
-
 
 Plagiarism
 ----------
