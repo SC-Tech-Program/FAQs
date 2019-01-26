@@ -105,7 +105,7 @@ A: Each paper will normally receive a minimum of three reviews.  However, the Te
 
 * The paper exposes the authors’ identities.  (See [Double-blind reviewing](#double-blind-reviewing).)
 
-* The AD appendix claims that the paper has no associated author-created artifacts even though the paper obviously contains empirical results, discusses author-written software, presents author-created hardware, or employs author-generated data.  The “no author-created artifacts” option in the AD form does not mean “I’m too lazy to describe my artifacts.”  (See [Artifact Description (AD) and Artifact Evaluation (AE) Appendices](#artifact-description-ad-and-artifact-evaluation-ae-appendices).)
+* The AD appendix claims that the paper has no associated author-created artifacts even though the paper obviously contains empirical results, discusses author-written software, presents author-created hardware, or employs author-generated data.  The “no author-created artifacts” option in the AD form does not mean “I ran out of time to describe my artifacts.”  (See [Artifact Description (AD) and Artifact Evaluation (AE) Appendices](#artifact-description-ad-and-artifact-evaluation-ae-appendices).)
 
 Double-blind reviewing
 ----------------------
