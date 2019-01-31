@@ -95,9 +95,22 @@ A: Perhaps, but as the old adage goes, there’s no second chance to make a firs
 
 A: We’ve all received reviews that made us angry, particularly on first reading. The revision period is short and doesn’t allow for the cooling-off period that authors have before they write a response to a journal review. We provide you the opportunity to submit a revision and response to address these issues, but you should still be careful with the wording of your response.  For example, we recommend you don’t say: “If reviewer X had just taken the time to read my paper carefully, they would have realized that our algorithm was rotation invariant.” Instead say, “Unfortunately, Section 4 must not have been as clear as we had hoped because Reviewer X did not understand that our algorithm was rotation invariant and they were therefore skeptical about the general applicability of our approach. The revised version of the second paragraph in Section 4 should clear up this confusion.”  The revise-and-respond process offers more opportunity than what is present in other conferences to convince your reviewers of the merits of your work; use such opportunities wisely.
 
+**Q: How many reviewers will review my paper?**
+
+A: Each paper will normally receive a minimum of three reviews.  However, the Technical Papers committee reserves the right to “desk reject” (i.e., reject without review) papers that violate any of the paper-submission rules.  The following violations are leading grounds for desk rejects:
+
+* The paper is longer than 10 pages (excluding the bibliography).  (See [Paper formatting](#paper-formatting).)
+
+* The paper is not formatted in ACM SIG proceedings style.  (See [Paper formatting](#paper-formatting).)
+
+* The paper exposes the authors’ identities.  (See [Double-blind reviewing](#double-blind-reviewing).)
+
+* The AD appendix claims that the paper has no associated author-created artifacts even though the paper obviously contains empirical results, discusses author-written software, presents author-created hardware, or employs author-generated data.  The “no author-created artifacts” option in the AD form does not mean “I ran out of time to describe my artifacts.”  (See [Artifact Description (AD) and Artifact Evaluation (AE) Appendices](#artifact-description-ad-and-artifact-evaluation-ae-appendices).)
+
 Double-blind reviewing
 ----------------------
-See the full policy at [ FIXME need the final link ]
+
+See the [official SC19 double-blind policy](https://sc19.supercomputing.org/submit/paper-submissions/double-blind-review-policy/) for more complete information.
 
 **Q: What is double-blind reviewing?**
 
@@ -107,13 +120,12 @@ A: Double-blind reviewing means that not only do authors not know the identities
 
 A: Studies indicate that double-blind reviewing goes a long way in reducing unconscious bias (e.g., based on institution, seniority, nationality, or gender) on the part of the reviewers.  For more information, here are some entry points into the relevant literature:
 
-* “More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings” by McKinley (2015), http://www.cs.utexas.edu/users/mckinley/notes/blind.html
-* “Reviewer bias in single- versus double-blind peer review” by Tomkins (2017), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5715744/
-
+* “[More on Improving Reviewing Quality with Double-Blind Reviewing, External Review Committees, Author Response, and in Person Program Committee Meetings](http://www.cs.utexas.edu/users/mckinley/notes/blind.html)” by McKinley (2015)
+* “[Reviewer bias in single- versus double-blind peer review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5715744/)” by Tomkins (2017)
 
 **Q: How should I prepare my paper for double-blind review?**
 
-A: SC requires only that there be some level of doubt as to the authors’ identities, not that only intelligence agencies could possibly determine who the authors are.  Consequently, there are only two key pieces to SC’s double-blind policy:
+A: SC requires only that there be some level of doubt as to individual authors’ identities, not that only government intelligence agencies could possibly determine who the authors are.  Consequently, there are only two key pieces to SC’s double-blind policy:
 
 1. Don’t state the authors’ names, institutions, or other identifying information anywhere in the paper.
 2. Write in the third person about your prior work, software, etc.
@@ -123,6 +135,8 @@ In particular, redact nothing:
 * Don’t avoid citing your own work (lest reviewers criticize the paper for not citing important prior results).
 * Don’t obscure the hardware platforms you used/built, even if relatively few people have access to that hardware.
 * Don’t obscure the software you used/developed, even if relatively few people have access to that software.
+
+As a corollary, don’t substitute fake names for names of software, hardware, institutions, people, etc.
 
 For example, consider the following alternatives:
 
@@ -155,11 +169,11 @@ A: They could, but reviewers are asked to avoid trying to learn the authors’ i
 Artifact Description (AD) and Artifact Evaluation (AE) Appendices
 -----------------------------------------------------------------
 
+See the [AD/AE Appendices FAQ](AD-AE-Appendices_Authors.md) for more complete information.
+
 **Q: What is the AD appendix?**
 
 A: The AD appendix, generated by the SC submission site from content gathered via a form, lets authors share with readers a description of the data, software, and hardware artifacts relied on to produce the paper’s results and provide links to persistently archived data and software products.
-
-See the [AD/AE Appendices FAQ](AD-AE-Appendices_Authors.md) for complete information.
 
 **Q: Does writing an AD appendix imply I can skip/shorten my paper’s experimental-setup or or other such sections?**
 
@@ -167,7 +181,7 @@ A: An SC paper must stand on its own and will be reviewed as such.  The AD appen
 
 **Q: What is the AE appendix?**
 
-A: The AE appendix, generated by the SC submission site from a free-text form field, lets authors explain the trustworthiness of their data by detailing: their approach to verification and validation, statistics gathered, uncertainty-quantification techniques applied, conditions controlled/not controlled for, and other details that convey a sense of the confidence on the reported results.  This is especially useful for results obtained in computational environments that are not widely accessible and/or an environments that are not reproducible.
+A: The AE appendix, generated by the SC submission site from a free-text form field, lets authors explain the trustworthiness of their data by detailing their approach to verification and validation, statistics gathered, uncertainty-quantification techniques applied, conditions controlled/not controlled for, and other details that convey a sense of the confidence on the reported results.  This is especially useful for results obtained in computational environments that are not widely accessible and/or environments that are not easily reproducible.
 
 **Q: Are the AD and AE appendices mandatory or optional?**
 
@@ -175,28 +189,27 @@ A: Starting with SC19, the AD appendix is mandatory for all papers in the Techni
 
 **Q: What if our paper does not have any associated artifacts?**
 
-A: Although we expect this to be a rare occurrence for SC papers, the first question in the required Artifact Description form enables authors to indicate that they do not have any software, hardware, or data artifacts associated with the submitted paper.
+A: Although we expect this to be an exceptionally rare occurrence for SC papers, the first question in the required AD form enables authors to indicate that their paper was written without having developed any software, run on any hardware, or gathered any data.
 
 **Q: Will the paper reviewers also be reviewing the AD and AE appendices?**
 
-A: Yes.  Their focus will be on the paper itself, but they can refer to the appendices for clarification and convincing of the reliability of the reported results. For compatibility with the double-blind review process, URLs linking to archived artifacts will be removed before review.
+A: Yes.  Their focus will be on the paper itself, but they can refer to the appendices for clarification and convincing of the reliability of the reported results.
 
 **Q: Doesn’t an artifact description conflict with double-blind reviewing?**
 
-A: Since your paper should stand on its own without the AD appendix, the paper would already have a third-party citation to software and hardware the research builds on.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.  If you provide links to your software in the AD appendix form question asking for links, those links will *not* be shared with PC members during the review process.
-
+A: For compatibility with the double-blind review process, URLs provided in the AD appendix form question asking for URLs will *not* be shared with PC members during the review process.  Because your paper should stand on its own without the AD appendix, the paper will presumably already have a third-party citation to the software and hardware upon which the research builds.  Keep in mind that double-blind reviewing is for reducing the chances that a reviewer will be able to guess your identity.  You do not have to guarantee it.
 
 Plagiarism
 ----------
 
-**Q: I understand that the SC Conference applies a plagiarism test program to submissions. What constitutes plagiarism? Is it possible for an author to plagiarize their own work?**
+**Q: I understand that the SC Conference applies a plagiarism test program to submissions. What constitutes plagiarism? Is it possible for authors to plagiarize their own work?**
 
 A: Please see [ACM’s guidelines on identifying plagiarism](https://www.acm.org/publications/policies/plagiarism).  Authors should submit new, original work that represents a significant advance from even their own prior publications.
 
 Conflicts of Interest
 ---------------------
 
-**Q: What are the SC guidelines for Conflicts of Interest (COI)?**
+**Q: What are the SC guidelines for conflicts of interest (COI)?**
 
 A: A potential conflict of interest occurs when a person is involved in making a decision that 1) could result in that person, a close associate of that person, or that person’s company or institution receiving significant financial gain, such as a contract or grant, or 2) could result in that person, or a close associate of that person, receiving significant professional recognition, such as an award or the selection of a paper, work, exhibit, or other type of submitted presentation.
 
@@ -218,7 +231,7 @@ Specific technical tracks
 -------------------------
 **Q: What kind of papers is the Performance Measurement, Modeling, and Tools Track looking for?**
 
-"Performance" can be broadly construed to include any number of metrics, such as execution time, bandwidth, energy, power; it can also include measures of correctness and resilience. Techniques that exploit machine learning should have a primary focus on applying their techniques to analyze or enhance system performance.  If their focus is more on the machine learning algorithm itself, then consider submitting to the new ML and HPC track.
+“Performance” can be broadly construed to include any number of metrics, such as execution time, bandwidth, energy, power; it can also include measures of correctness and resilience. Techniques that exploit machine learning should have a primary focus on applying their techniques to analyze or enhance system performance.  If their focus is more on the machine learning algorithm itself, then consider submitting to the new ML and HPC track.
 
 Submissions in to the Performance track are encouraged to show the applicability and reproducibility of their results by means such as sensitivity analysis, performance modeling, or code snippets.
 
