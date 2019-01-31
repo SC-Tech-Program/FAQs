@@ -22,20 +22,6 @@ A. Each poster is assigned one display board that is four feet high and eight fe
 
 A. You should produce a poster that effectively and elegantly portrays its technical content. Poster styles, layouts, fonts, and content are left to the discretion of the author(s).
 
-**Q. What are the poster formatting requirements fors scientific visualization & data analytics showcase?**
-
-A. Submissions need to include a movie (up to 1GB in size) and a short paper (up to 6 pages including references). The short paper should describe the scientific story conveyed by the movie, how the visualization helps scientific discovery, and the “state-of-the-practice” information behind making the movie.
-
-The video should be in MP4, MOV, or AVI format and use a codec that will play in typical desktop computer media players. There is no hard limit on video length, but typical videos are less than 10 minutes long, and the submitted file should be no more than 1GB.
-
-The manuscript must be no more than 6 pages including references. The manuscripts should be formatted according to the guidelines for the Parallel Computing journal. Please use one of the following two templates when formatting your manuscript:
-
-LaTeX Template (159KB .zip) – preferred
-Microsoft Word Template (51KB .zip)
-
-
-The manuscript should be uploaded as a pdf for the initial submission.
-
 **Q. Can I embed content in my poster?**
 
 A. Yes, you can embed additional multimedia elements using QR codes.
@@ -98,25 +84,6 @@ Archiving/Publishing
 **Q. Is my poster archived? What is the process for archiving my poster?**
 
 A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
-
-**Q. What is the submission process for Scientific Visualization and what is the review process?**
-
-A. Submissions need to include a movie (up to 1GB in size) and a short paper (up to 6 pages including references). The short paper should describe the scientific story conveyed by the movie, how the visualization helps scientific discovery, and the “state-of-the-practice” information behind making the movie.
-
-Each submission will be peer reviewed by the Visualization & Data Analytics Showcase Committee. Criteria for review include:
-
-How effective is the visual communication of the data?
-How relevant to the HPC community is the visualization?
-What is the impact of the science story and how well is it told?
-What visualization techniques were necessary to create the movie?
-Finally, submissions should consider SC19’s overall theme “HPC is now!”.
-
-Entries are submitted through the SC [Submissions website](https://submissions.supercomputing.org):
-
-Sign in
-Click the “Make a New Submission” tab
-Select “Scientific Visualization & Data Analytics Showcase”
-
 
 ## <a name='Mounting'></a>Mounting/Displaying at the Conference
 
