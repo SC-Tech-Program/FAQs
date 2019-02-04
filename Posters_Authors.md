@@ -71,12 +71,7 @@ A. No. Authors are required to select the type of poster at the time of submissi
 
 A. Yes, all posters are archived and can be accessed after the conference on the SC19 website. Contact us for further details.
 
-<<<<<<< HEAD
-
-### <a name='Mounting'></a>Mounting/Displaying at the Conference
-=======
 ## <a name='Mounting'></a>Mounting/Displaying at the Conference
->>>>>>> f0f33cc428c7fe42a9f3143f8622ec1f8f0707ee
 
 **Q. What are the options for mounting my poster to the display board?**
 
