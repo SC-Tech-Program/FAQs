@@ -142,7 +142,7 @@ A. The artifact description appendix will be submitted at the same time as your 
 
 **Q. Does the artifact description appendix really impact scientific reproducibility?**
 
-[A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
+A. The artifact description appendix is simply a description of the computing environment used to produce the results in your poster. By itself, this appendix does not directly improve scientific reproducibility. However, a well-written appendix can be used by scientists (including the authors at a later date) to more easily replicate and build upon the results in the poster. Therefore, the artifact description appendix can reduce barriers and costs of replicating published results. It is an important first step toward full scientific reproducibility.
 
 
 **Q. What kind of recognition do I get for submitting these appendices?**
