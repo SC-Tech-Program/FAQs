@@ -89,7 +89,7 @@ A. Each poster is given a designated space with a display board. Before the conf
 
 A. The conference does not provide any support for printing posters. Typically, authors print their posters ahead of the conference. The convention center’s business office may offer printing services. You can look for details at the convention center’s website.
 
-**Q. When do I need to be at my poster location to present it?
+**Q. When do I need to be at my poster location to present it?**
 
 A. Poster presenters must be available at their posters to answer questions and discuss their work for the duration of the Posters Reception on Tuesday evening. In addition, each poster track has a separate presentation session for selected posters (Research Best Poster Candidates, ACM SRC Best Poster Candidates, Doctoral Showcase, Best Poster Candidates in Scientific Visualization). 
 
