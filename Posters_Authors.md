@@ -11,7 +11,7 @@ FAQ's are organized into the following sections:
  - [ACM Student Research Posters Questions](#ACMSRCposters)
  - [Research Posters Questions](#Research)
  - [Doctoral Showcase Questions](#Doctoral)
- - [Scientific Visualization & Data Analytics Showcase](#ScientificViz)
+ - [Scientific Visualization & Data Analytics Showcase Questions](#ScientificViz)
 
 ## <a name='GeneralQuestions'></a> General Questions
 ### <a name='Formatting'></a> Formatting Specifications
@@ -117,7 +117,7 @@ A. No. The appendix is not required in order for a poster to be considered a fin
 
 **Q. How is the Best Poster for Research Posters selected?**
 
-A. The Research Posters Committee nominates Best Poster candidates during the review process. An ad-hoc committee judges posters and poster presentations during the Posters Reception. After the reception, this committee convenes and selects a single best poster.
+A. The Research Posters Committee nominates Best Poster candidates during the review process. At the conference, an ad-hoc committee judges poster content, including the optional artifact description appendix, and poster presentations during a Best Posters presentation session and the Posters Reception. After the reception, this committee convenes and selects a single best poster.
 
 A separate award committee handles Best Student Poster in the context of the ACM Student Research Competition.
 
