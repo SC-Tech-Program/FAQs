@@ -168,8 +168,8 @@ The video should be in MP4, MOV, or AVI format and use a codec that will play in
 
 The manuscript must be no more than 6 pages including references. The manuscripts should be formatted according to the guidelines for the Parallel Computing journal. Please use one of the following two templates when formatting your manuscript:
 
-[LaTeX Template](sc18-vis-showcase-latex-template.zip) – preferred
-[Microsoft Word Template](sc18-vis-showcase-template.docx.zip) 
+[LaTeX Template](sc19-vis-showcase-latex-template.zip) – preferred
+[Microsoft Word Template](sc19-vis-showcase-template.docx.zip) 
 
 The manuscript should be uploaded as a pdf for the initial submission.
 
