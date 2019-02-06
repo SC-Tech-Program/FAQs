@@ -11,14 +11,7 @@ Paper formatting
 
 **Q: What are the length restrictions on paper submissions?**
 
-A: Submissions are limited to 10 pages, excluding the bibliography, using the ACM SIG proceedings template, with line numbering enabled to help with review. In LaTeX, this implies a document class of:
-```LaTeX
-\documentclass[sigconf,review]{acmart}
-```
-AD and AE appendices are automatically generated and do not count against the 10 pages.
-
-Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper (e.g., additional proofs, videos, or images).
-
+A: Submissions are limited to ten pages of 8.5" × 11" paper (i.e., U.S. letter).  This ten-page limit includes everything except the bibliography.  Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper (e.g., additional proofs, videos, or images).
 
 **Q: Do the AD and AE appendices count against the 10 pages?**
 
