@@ -47,6 +47,11 @@ A: Yes.  Papers that have not previously been peer-reviewed are eligible for sub
 
 A: Yes.  However the paper needs to have been substantially enhanced since prior publication (say, 30% new material) to be eligible for submission to SC.
 
+**Q: Can I submit a paper that is in submission to another venue?**
+
+A: No.  If your paper has been submitted to a venue whose notification overlaps with the SC19 deadline (e.g. ICS 2019), you can only submit your paper to SC19 *after* withdrawing your paper from consideration at that other venue.
+
+
 The Peer-Review Process
 -----------------------
 
