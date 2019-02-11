@@ -108,7 +108,7 @@ Infrastructure and Organization
 
 **Q: What infrastructure is provided for SC panels?**
 
-A: Each panel’s infrastructure includes one projector, one screen, one table for the panelists with multiple chairs, one clip-on or one podium microphone for the moderator, and microphones for the panelists. One or multiple aisle microphone will be provided. The moderator should direct attendees to the aisle microphone for questions so that everyone can hear.
+A: Each panel’s infrastructure includes one projector, two screens, two tables for the panelists with six chairs, one fixed microphone at the podium, a lavalier lapel microphone, and three or four microphones on the panelist tables. A stand microphone is provided in each of the three main aisles in the room.
 
 **Q: I am a panelist or a moderator. When should I arrive at and leave my designated room?**
 
