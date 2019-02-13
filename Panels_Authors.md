@@ -44,8 +44,13 @@ A: Yes. You must indicate your panel’s title when submitting your proposal, as
 
 A. Your submission should include:
 
-* A brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program;
-* A proposal of no more than two pages, uploaded as a single PDF file, that describes the panel in more detail. This proposal should also include your panel title. The panel proposal may include information such as a description of the panel topic or position statements by the panelists. You must convince the Panels review committee that the panel will truly be an interactive session and not deteriorate into long-winded, disjointed, and boring mini-presentations or fluffy entertainment. Do not waste space giving a technical history; instead, explain why the panel will attract a good audience and why the audience will find the panel to be insightful and impactful.
+* A title;
+* Moderator information with a short biography (maximum 150 words);
+* Contact person information if different from the moderator;
+* Panelist information with a short biography (maximum 150 words);
+* A brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program (maximum 150 words);
+* A proposal of no more than two pages, uploaded as a single PDF file, that describes the panel in more detail. This proposal should also include your panel title. The panel proposal may include information such as a description of the panel topic or position statements by the panelists. You must convince the Panels review committee that the panel will truly be an interactive session and not deteriorate into long-winded, disjointed, and boring mini-presentations or fluffy entertainment. Do not waste space giving a technical history; instead, explain why the panel will attract a good audience and why the audience will find the panel to be insightful and impactful;
+* A diversity justification, describing how you plan to create diversity among panelists with respect to topical background, institution type, geography and demographic characteristics like seniority and gender (maximum 70 words).
 
 Review Criteria and Conflict of Interest (COI)
 ----------------
