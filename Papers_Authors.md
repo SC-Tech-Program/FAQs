@@ -51,6 +51,23 @@ A: Yes.  However the paper needs to have been substantially enhanced since prior
 
 A: No.  If your paper has been submitted to a venue whose notification overlaps with the SC19 deadline (e.g. ICS 2019), you can only submit your paper to SC19 *after* withdrawing your paper from consideration at that other venue.
 
+**Q: My paper presents results from only a single GPU, workstation, etc.  Does that make my paper ineligible for inclusion in SC?**
+
+A: Submissions will be considered on any topic related to high performance computing within Technical Papers’s ten tracks:
+
+* Algorithms
+* Applications
+* Architecture and Networks
+* Clouds and Distributed Computing
+* Data Analytics, Visualization, and Storage
+* Machine Learning and HPC
+* Performance Measurement, Modeling, and Tools
+* Programming Systems
+* State of the Practice
+* System Software
+
+(See https://sc19.supercomputing.org/submit/paper-submissions/ for descriptions of each of the above.) Small-scale studies–including single-node studies–are welcome as long as the paper clearly conveys the work’s contribution to high-performance computing.
+
 
 The Peer-Review Process
 -----------------------
