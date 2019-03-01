@@ -66,7 +66,7 @@ A: Submissions will be considered on any topic related to high performance compu
 * State of the Practice
 * System Software
 
-(See https://sc19.supercomputing.org/submit/paper-submissions/ for descriptions of each of the above.) Small-scale studies–including single-node studies–are welcome as long as the paper clearly conveys the work’s contribution to high-performance computing.
+(See https://sc19.supercomputing.org/submit/paper-submissions/ for descriptions of each of the above.) Small-scale studies—including single-node studies—are welcome as long as the paper clearly conveys the work’s contribution to high-performance computing.
 
 
 The Peer-Review Process
