@@ -78,13 +78,15 @@ A: From an author’s perspective, the following are the key steps:
 
 1. Authors submit a title, abstract, and other metadata.
 2. Authors submit their full paper and complete a form describing their computational artifacts (or lack of computational artifacts) and, optionally, text discussing how they evaluated their computational results.
+   * Papers that violate any of the submission rules (e.g., page length) will be rejected without review.  See "How many reviewers will review my paper?" below.
 3. Authors receive an initial set of reviews of their paper.
+   * Very low-scoring papers will be rejected at this stage.
 4. Authors have an opportunity to revise their paper and prepare an accompanying response to the reviewers.
 5. Author revisions and accompanying response will be available to the reviewers at least a week before the PC meeting.
-6. Authors are notified of their paper’s disposition: Accept, Reject, or Major Revisions Required.
-7. In the case of Major Revisions Required, authors prepare a major revision for re-review.
-8. After this review, the paper will be either accepted or rejected.
-9. Authors of accepted papers prepare the final version of their paper.
+   * Authors are notified of their paper’s disposition: Accept, Reject, or, in very few instances, Major Revisions Required.
+6. In the case of Major Revisions Required, authors prepare a major revision for re-review.
+   * After this review, the paper will be either accepted or rejected.
+7. Authors of accepted papers prepare the final version of their paper.
 
 **Q: Is there an author response/rebuttal stage?**
 
@@ -104,11 +106,11 @@ A: Yes, but you must clearly document your changes and rationale in your author 
 
 **Q: Doesn’t this incentivize authors to submit an extremely rough first draft, and only make updates after reviewer feedback?**
 
-A: Perhaps, but as the old adage goes, there’s no second chance to make a first impression. Your reviewers will have had much more time to look at your first draft, and their initial scores will be based on it. SC introduced the revise-and-respond process on the belief that an actual revision is far more persuasive than promises made in a rebuttal.  That does not mean that revisions will change a reviewer’s mind if their first impression of a paper was completely negative. Because reviewers will have limited time to scrutinize your revisions, you should strive to make every phase of the submission process count.
+A: No, because very low-scoring papers will be rejected after the first round of reviews, and authors will not be given an opportunity to restructure their prose, add data, or make other such improvements.  As the old adage goes, there’s no second chance to make a first impression.
 
 **Q: What if a reviewer clearly didn’t read my paper carefully enough? What if the reviewer seems to lack basic knowledge of the area on which the paper focuses? How should my author response and revision address these issues?**
 
-A: We’ve all received reviews that made us angry, particularly on first reading. The revision period is short and doesn’t allow for the cooling-off period that authors have before they write a response to a journal review. We provide you the opportunity to submit a revision and response to address these issues, but you should still be careful with the wording of your response.  For example, we recommend you don’t say: “If reviewer X had just taken the time to read my paper carefully, they would have realized that our algorithm was rotation invariant.” Instead say, “Unfortunately, Section 4 must not have been as clear as we had hoped because Reviewer X did not understand that our algorithm was rotation invariant and they were therefore skeptical about the general applicability of our approach. The revised version of the second paragraph in Section 4 should clear up this confusion.”  The revise-and-respond process offers more opportunity than what is present in other conferences to convince your reviewers of the merits of your work; use such opportunities wisely.
+A: We’ve all received reviews that made us angry, particularly on first reading. The revision period is short and doesn’t allow for the cooling-off period that authors have before they write a response to a journal review. We provide you the opportunity to submit a revision and response to address these issues, but you should still be careful with the wording of your response.  For example, we recommend you don’t say: “If reviewer *X* had just taken the time to read my paper carefully, they would have realized that our algorithm was rotation invariant.” Instead say, “Unfortunately, Section 4 must not have been as clear as we had hoped because Reviewer *X* did not understand that our algorithm was rotation invariant and they were therefore skeptical about the general applicability of our approach. The revised version of the second paragraph in Section 4 should clear up this confusion.”  The revise-and-respond process offers more opportunity than what is present in other conferences to convince your reviewers of the merits of your work; use such opportunities wisely.
 
 **Q: How many reviewers will review my paper?**
 
