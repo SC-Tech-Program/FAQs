@@ -13,9 +13,13 @@ Paper formatting
 
 A: Submissions are limited to ten pages of 8.5" × 11" paper (i.e., U.S. letter).  This ten-page limit includes everything except the bibliography.  Authors of accepted papers can provide supplemental material with their final, camera-ready version of the paper (e.g., additional proofs, videos, or images).
 
-**Q: Do the AD and AE appendices count against the 10 pages?**
+**Q: Do the AD and AE appendices count against the ten pages?**
 
 A: No.  These are created separately via an HTML form and are not considered part of the paper proper.
+
+**Q: Can I include appendices other than the AD/AE appendices that do not count against the ten pages?**
+
+A: For the submission, no.  The reviewing time is too limited for reviewers to have to evaluate more than ten pages per submission.  However, authors of accepted papers will have the opportunity to upload separate, supplemental material to accompany the digital version of their paper.
 
 **Q: How should papers be formatted?**
 
