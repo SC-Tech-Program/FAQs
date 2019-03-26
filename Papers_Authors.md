@@ -88,8 +88,8 @@ A: From an author’s perspective, the following are the key steps:
 4. Authors have an opportunity to revise their paper and prepare an accompanying response to the reviewers.
 5. Author revisions and accompanying response will be available to the reviewers at least a week before the PC meeting.
    * Authors are notified of their paper’s disposition: Accept, Reject, or, in very few instances, Major Revisions Required.
-6. In the case of Major Revisions Required, authors prepare a major revision for re-review.
-   * After this review, the paper will be either accepted or rejected.
+6. In the case of Major Revisions Required, authors prepare a major revision to address a list of concerns provided with the review.
+   * If all of the concerns on the list are addressed, the paper will be accepted.  If not, it will be rejected.
 7. Authors of accepted papers prepare the final version of their paper.
 
 **Q: Is there an author response/rebuttal stage?**
