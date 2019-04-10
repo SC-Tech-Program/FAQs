@@ -60,11 +60,11 @@ Reproducibility depends on, as a first step, sharing the provenance of results w
 
 **What are "author created" artifacts and why make the distinction?**
 
-Author created artifacts are the hardware, software, or data created by the paper's authors.  Only these artifacts need be made available to facilitate reproducability.  Propritary, closed source artifacts (e.g. commercial software and CPUs) will necessarily be part of many research studies.  These proprietary artifacts should be described to the best of the author's ability but do not need to be provided.
+Author created artifacts are the hardware, software, or data created by the paper's authors.  Only these artifacts need be made available to facilitate reproducibility.  Proprietary, closed source artifacts (e.g. commercial software and CPUs) will necessarily be part of many research studies.  These proprietary artifacts should be described to the best of the author's ability but do not need to be provided.
 
-**What about propritary author-created artifacts?**
+**What about proprietary author-created artifacts?**
 
-The ideal case for reproducability is to have all author created artifacts publically available with a stable identifier.  Papers involving propritary, closed source author-created artifacts should indicate the availability of the artifacts and describe them as much as possible.  Note that results dependent on closed source artifacts are not reproducable and are therefore ineligible for most of the ACM's artifact review badges.  See https://www.acm.org/publications/policies/artifact-review-badging.
+The ideal case for reproducibility is to have all author created artifacts publically available with a stable identifier.  Papers involving proprietary, closed source author-created artifacts should indicate the availability of the artifacts and describe them as much as possible.  Note that results dependent on closed source artifacts are not reproducible and are therefore ineligible for most of the ACM's artifact review badges.  See https://www.acm.org/publications/policies/artifact-review-badging.
 
 **Are the numbers used to draw our charts a data artifact?**
 
@@ -80,7 +80,7 @@ Use Zenodo (https://help.zenodo.org/).  Contact them for information on how to u
 An artifact-evaluation effort can increase the trustworthiness of computational results.
 It can be particularly effective in the case of results obtained using specialized computing platforms, not available to other researchers. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the supercomputing community.
 Access to these systems is typically limited, however. Thus, most reviewers cannot independently check results, and the authors themselves may be unable to recompute their own results in the future, given the impact of irreversible changes in the environment (compilers, libraries, components, etc.).
-The various forms of Artiface Evaluation improve confidence that computational results from these special platforms are correct.
+The various forms of Artifact Evaluation improve confidence that computational results from these special platforms are correct.
 
 ## <a name="badges"></a>ACM Artifacts Available and Artifacts Evaluated Badges 
  
