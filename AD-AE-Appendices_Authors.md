@@ -56,6 +56,10 @@ Reviewers _could_ discover the author's identity if they embark on an online sea
 
 Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AD appendix is an instrument of documentation and transparency. A good AD appendix helps researchers document their results, and helps other researchers build from them.
 
+**The paper text explains why I believe my answers are right and shows all my work.  Why do I need to provide an Artifact Evaluation appendix?**
+
+There are many good reasons for formalizing the artifact evaluation process.  Standard practice varies across disciplines, and SC is an international, multi-disciplinary conference. Labeling the evaluation as such improves our ability to review the paper and improves reader confidence in the veracity of the results when approaching the work from a different background.
+
 ## <a name="data"></a>Artifacts
 
 **What are "author created" artifacts and why make the distinction?**
