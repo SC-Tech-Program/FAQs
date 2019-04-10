@@ -19,46 +19,65 @@ Artifact Evaluation (AE) Appendices are optional, but strongly encouraged.
 
 ## <a name="requirements"></a>AD and AE Appendix Requirements 
 
-**Q1. Are AD and AE appendices required in order to submit to SC19?**
+**Are AD and AE appendices required in order to submit to SC19?**
 
-A1. An AD appendix is _required_ for all Technical Program submissions.
+An AD appendix is _required_ for all Technical Program submissions.
 An AE appendix is _optional_ but strongly encouraged.
 
-**Q2. Do I need to make my software open source in order to complete the AD appendix?**
+**Do I need to make my software open source in order to complete the AD appendix?**
 
-A2. No. You are not asked to make any changes to your computing environment in order to complete the appendix. 
+No. You are not asked to make any changes to your computing environment in order to complete the appendix. 
 The AD appendix is meant to _describe_ the computing environment in which you produced your results.
 Any author-created software _does_ need to be open source, however, to be eligible for the ACM Artifacts Available badge (see below).
 
-**Q3. How should I format my AD Appendix**
+**How should I format my AD Appendix**
 
-A3. You don't need to worry about formatting the Appendices. You will be presented with an online form during the paper submission with questions that you will answer directly on the submission site. After answering the questions, the system will automatically generate a PDF of the Appendix for you.
+You don't need to worry about formatting the Appendices. You will be presented with an online form during the paper submission with questions that you will answer directly on the submission site. After answering the questions, the system will automatically generate a PDF of the Appendix for you.
 
-**Q4. What information do I need to provide in the AD/AE Appendix online form?**
+**What information do I need to provide in the AD/AE Appendix online form?**
 
-A4. A printout of the questions included in the AD/AE Appendix online form is provided in the [`Author-Kit`](https://github.com/SC-Tech-Program/Author-Kit) repository. Be sure to familiarize yourself with these _before writing your paper_, and ideally before or while you are producing your results.
+A printout of the questions included in the AD/AE Appendix online form is provided in the [`Author-Kit`](https://github.com/SC-Tech-Program/Author-Kit) repository. Be sure to familiarize yourself with these _before writing your paper_, and ideally before or while you are producing your results.
 
 ## <a name="review"></a>Review Process 
 
-**Q5. Who will review my appendices?**
+**Who will review my appendices?**
 
-A5. The AD & AE Appendices will be reviewed _with your paper_ by the Technical Program committee, but the artifact URLs will be removed from the version they review, as a precaution in support of double-blind review.
+The AD & AE Appendices will be reviewed _with your paper_ by the Technical Program committee, but the artifact URLs will be removed from the version they review, as a precaution in support of double-blind review.
 In addition, the **AD/AE Appendices Committee** will review the unredacted appendices, and will check that artifacts are indeed available in the URLs provided. They will also help authors improve their appendices, in a double-open arrangement.
 
-**Q6. How will review of appendices interact with the double-blind review process?**
+**How will review of appendices interact with the double-blind review process?**
 
-A6. The AD appendix should describe the data, software and hardware artifacts involved in producing the results.
+The AD appendix should describe the data, software and hardware artifacts involved in producing the results.
 Reviewers _could_ discover the author's identity if they embark on an online search, but they will be asked _not to_, in support of double-blind review. Author-provided artifact URLs will be redacted from the appendices provided to the reviewers.
 
 ## <a name="impact"></a>Impact of AD and AE Appendices 
 
-**Q7. What's the impact of an Artifact Description appendix on scientific reproducibility?**
+**What's the impact of an Artifact Description appendix on scientific reproducibility?**
 
-A7. Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AD appendix is an instrument of documentation and transparency. A good AD appendix helps researchers document their results, and helps other researchers build from them.
+Reproducibility depends on, as a first step, sharing the provenance of results with transparency, and the AD appendix is an instrument of documentation and transparency. A good AD appendix helps researchers document their results, and helps other researchers build from them.
 
-**Q8. What's the impact of an Artifact Evaluation appendix on scientific reproducibility?**
+## <a name="data"></a>Artifacts
 
-A8. An artifact-evaluation effort can increase the trustworthiness of computational results.
+**What are "author created" artifacts and why make the distinction?
+
+Author created artifacts are the hardware, software, or data created by the paper's authors.  Only these artifacts need be made available to facilitate reproducability.  Propritary, closed source artifacts (e.g. commercial software and CPUs) will necessarily be part of many research studies.  These proprietary artifacts should be described to the best of the author's ability but do not need to be provided.
+
+**What about propritary author-created artifacts?
+
+The ideal case for reproducability is to have all author created artifacts publically available with a stable identifier.  Papers involving propritary, closed source author-created artifacts should indicate the availability of the artifacts and describe them as much as possible.  Note that results dependent on closed source artifacts are not reproducable and are therefore ineligible for most of the ACM's artifact review badges.  See https://www.acm.org/publications/policies/artifact-review-badging.
+
+**Are the numbers used to draw our charts a data artifact?
+
+Not necessarily.  Data artifacts are the data (input or output) required to reproduce the results, not necessarily the results themselves.  For example, if your paper presents a system that generates charts from datasets then providing an input dataset would facilitate reproducibility.  However, if the paper merely *uses charts to elucidate results* then the input data to whatever tool you used to draw those charts isn't required to reproduce the paper's results.  The tool which drew the chart isn't part of the study, so the input data to that tool is not a data artifact of this work.  
+
+**Help! My data is HUGE! How do I make it publically available with a stable identifier?
+
+Use Zenodo (https://help.zenodo.org/).  Contact them for information on how to upload extremely large datasets.  You can easily upload datasets of 50GB or less, have multiple datasets, and there is no size limit on communities.
+
+
+**What's the impact of an Artifact Evaluation appendix on scientific reproducibility?**
+
+An artifact-evaluation effort can increase the trustworthiness of computational results.
 It can be particularly effective in the case of results obtained using specialized computing platforms, not available to other researchers. Leadership computing platforms, novel testbeds, and experimental computing environments are of keen interest to the supercomputing community.
 Access to these systems is typically limited, however. Thus, most reviewers cannot independently check results, and the authors themselves may be unable to recompute their own results in the future, given the impact of irreversible changes in the environment (compilers, libraries, components, etc.).
 The various forms of Artiface Evaluation improve confidence that computational results from these special platforms are correct.
