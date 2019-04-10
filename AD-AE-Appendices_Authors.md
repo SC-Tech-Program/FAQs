@@ -58,19 +58,19 @@ Reproducibility depends on, as a first step, sharing the provenance of results w
 
 ## <a name="data"></a>Artifacts
 
-**What are "author created" artifacts and why make the distinction?
+**What are "author created" artifacts and why make the distinction?**
 
 Author created artifacts are the hardware, software, or data created by the paper's authors.  Only these artifacts need be made available to facilitate reproducability.  Propritary, closed source artifacts (e.g. commercial software and CPUs) will necessarily be part of many research studies.  These proprietary artifacts should be described to the best of the author's ability but do not need to be provided.
 
-**What about propritary author-created artifacts?
+**What about propritary author-created artifacts?**
 
 The ideal case for reproducability is to have all author created artifacts publically available with a stable identifier.  Papers involving propritary, closed source author-created artifacts should indicate the availability of the artifacts and describe them as much as possible.  Note that results dependent on closed source artifacts are not reproducable and are therefore ineligible for most of the ACM's artifact review badges.  See https://www.acm.org/publications/policies/artifact-review-badging.
 
-**Are the numbers used to draw our charts a data artifact?
+**Are the numbers used to draw our charts a data artifact?**
 
 Not necessarily.  Data artifacts are the data (input or output) required to reproduce the results, not necessarily the results themselves.  For example, if your paper presents a system that generates charts from datasets then providing an input dataset would facilitate reproducibility.  However, if the paper merely *uses charts to elucidate results* then the input data to whatever tool you used to draw those charts isn't required to reproduce the paper's results.  The tool which drew the chart isn't part of the study, so the input data to that tool is not a data artifact of this work.  
 
-**Help! My data is HUGE! How do I make it publically available with a stable identifier?
+**Help! My data is HUGE! How do I make it publically available with a stable identifier?**
 
 Use Zenodo (https://help.zenodo.org/).  Contact them for information on how to upload extremely large datasets.  You can easily upload datasets of 50GB or less, have multiple datasets, and there is no size limit on communities.
 
