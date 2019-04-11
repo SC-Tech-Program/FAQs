@@ -26,7 +26,7 @@ A: For the submission, no.  The reviewing time is too limited for reviewers to h
 A: For consistency across the entire proceedings, papers must be written in [ACM SIG proceedings style](https://www.acm.org/publications/proceedings-template) with line numbering enabled to help with the review process.  In LaTeX, this implies a document class of
 
 ```LaTeX
-\documentclass[sigconf,review]{acmart}
+\documentclass[sigconf,review,anonymous]{acmart}
 ```
 
 Contribution Track
