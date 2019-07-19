@@ -125,6 +125,10 @@ A. No. Research posters are not eligible for any badges associated with reproduc
 A. Yes. Posters focusing on HPC education are within scope. This is one of the topics listed in the call for posters. There is no separate education track, so education posters will be evaluated as research posters and should be submitted using the same submission form as technical research posters.
 Archiving/Publishing
 
+**Q. Which ACM template should I use? There are two at the link you provided.**
+
+A. Please use the ACM Conference Proceedings "Master" Template for Research Posters abstracts.
+
 ### <a name='Reproducibility'></a> Reproducibility for Research Posters
 
 **Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
