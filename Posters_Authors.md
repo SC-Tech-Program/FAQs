@@ -129,7 +129,7 @@ Archiving/Publishing
 
 A. Please use the ACM Conference Proceedings "Master" Template for Research Posters abstracts.
 
-**Q. Do references count in the two-page limit for research poster abstracts?
+**Q. Do references count in the two-page limit for research poster abstracts?**
 
 A. References may spill over past the second page of the abstract but all technical content must fit in the two page limit.
 
