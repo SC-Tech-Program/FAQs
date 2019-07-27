@@ -11,7 +11,7 @@ Panel Format
 
 **Q: What is an SC panel?**
 
-A: A panel provides a forum that promotes lively, highly interactive discussions on a wide variety of topics among the panelists and audience. The panel format includes a moderator and up to six panelists. A panel is not a set of mini-presentations that do not leave time for discussion with the audience. A panel is non-commercial.
+A: A panel provides a forum that promotes lively, highly interactive discussions on a wide variety of topics among the panelists and audience. The panel format includes a moderator and panelists. We recommend no more than six panelists as this is the maximum number of chairs available for panelists. A panel is not a set of mini-presentations that do not leave time for discussion with the audience. A panel is non-commercial.
 
 **Q: What is the length of a panel session?**
 
@@ -22,7 +22,7 @@ Submissions and Notifications
 
 **Q: When will I know if my proposed panel will be included in the conference?**
 
-A: Accept or reject notifications will be sent to all submitters by late June.
+A: Accept or reject notifications will be sent to all submitters by 22 June.
 
  
 **Q: Where can I find the Panels program online?**
@@ -32,20 +32,25 @@ A: The program for Panels will be posted here within two weeks of the notificati
  
 **Q: Can I submit more than one panel proposal?**
 
-A: You are welcome to submit multiple proposals. A committee of peers selects panels in a peer-review process. Because a limited number of slots are available, any individual may be a member (i.e., contact, moderator, or panelist) of at most two panels.
+A: You are welcome to submit multiple proposals. A committee of peers selects panels in a peer-review process. Because a limited number of slots are available, any individual may be a member (i.e., contact, moderator, or panelist) of at most two accepted panels.
 
  
 **Q: Do panels need to have a title?**
 
-A: You should indicate your panel’s title when submitting your proposal, as well as the name and affiliation of each discussant and the moderator. You do not have to include titles for individual presentations. A contact for the panel proposal should also be provided. You must include a brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program.
+A: Yes. You must indicate your panel’s title when submitting your proposal, as well as the name and affiliation of each panelist and the moderator. A contact for the panel proposal should also be provided. You must include a brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program.
 
  
 **Q: What material do I need to submit?**
 
 A. Your submission should include:
 
-* A brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program;
-* A proposal of no more than two pages, uploaded as a single PDF file, that describes the panel in more detail. This proposal should also include your panel title. The panel proposal may include information such as a description of the panel topic or position statements by the panelists. You must convince the Panels review committee that the panel will truly be an interactive session and not deteriorate into long-winded, disjointed, and boring mini-presentations or fluffy entertainment. Do not waste space giving a technical history; instead, explain why the panel will attract a good audience and why the audience will find the panel to be insightful and impactful.
+* A title;
+* Moderator information with a short biography (maximum 150 words);
+* Contact person information if different from the moderator;
+* Panelist information with a short biography (maximum 150 words);
+* A brief abstract, in the form of a call for participation, describing the panel topic and questions to be addressed exactly as you want them to appear in the conference program (maximum 150 words);
+* A proposal of no more than two pages, uploaded as a single PDF file, that describes the panel in more detail. This proposal should also include your panel title. The panel proposal may include information such as a description of the panel topic or position statements by the panelists. You must convince the Panels review committee that the panel will truly be an interactive session and not deteriorate into long-winded, disjointed, and boring mini-presentations or fluffy entertainment. Do not waste space giving a technical history; instead, explain why the panel will attract a good audience and why the audience will find the panel to be insightful and impactful;
+* A diversity justification, describing how you plan to create diversity among panelists with respect to topical background, institution type, geography and demographic characteristics like seniority and gender (maximum 70 words).
 
 Review Criteria and Conflict of Interest (COI)
 ----------------
@@ -108,7 +113,7 @@ Infrastructure and Organization
 
 **Q: What infrastructure is provided for SC panels?**
 
-A: Each panel’s infrastructure includes one projector, one screen, one table for the panelists with multiple chairs, one clip-on or one podium microphone for the moderator, and microphones for the panelists. One or multiple aisle microphone will be provided. The moderator should direct attendees to the aisle microphone for questions so that everyone can hear.
+A: Each panel’s infrastructure includes one projector, two screens, two tables for the panelists with six chairs, one fixed microphone at the podium, a lavalier lapel microphone, and three or four microphones on the panelist tables. A stand microphone is provided in each of the three main aisles in the room.
 
 **Q: I am a panelist or a moderator. When should I arrive at and leave my designated room?**
 
