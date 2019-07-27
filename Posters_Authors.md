@@ -129,6 +129,10 @@ Archiving/Publishing
 
 A. Please use the ACM Conference Proceedings "Master" Template for Research Posters abstracts.
 
+**Q. Do references count in the two-page limit for research poster abstracts?
+
+A. References may spill over past the second page of the abstract but all technical content must fit in the two page limit.
+
 ### <a name='Reproducibility'></a> Reproducibility for Research Posters
 
 **Q. Is an artifact description appendix required in order to make a submission to SC Posters?**
